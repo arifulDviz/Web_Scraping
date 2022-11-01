@@ -1,0 +1,4898 @@
+[
+  {
+    "id": 72,
+    "name": "Motor-Depotet A/S",
+    "address": "Hasselager Allé 1",
+    "zipAndCity": "8260 Viby J",
+    "website": "https://www.motor-depotet.dk",
+    "phone": "41883203",
+    "adCount": 84
+  },
+  {
+    "id": 4921,
+    "name": "Anders Petersen Automobiler A/S",
+    "address": "Trekanten 42",
+    "zipAndCity": "8500 Grenaa",
+    "website": "https://www.apabiler.dk",
+    "phone": "87594400",
+    "adCount": 9
+  },
+  {
+    "id": 4920,
+    "name": "Anders Petersen Automobiler A/S",
+    "address": "Ravnsøvej 10",
+    "zipAndCity": "8240 Risskov",
+    "website": "https://www.apabiler.dk",
+    "phone": "87415800",
+    "adCount": 38
+  },
+  {
+    "id": 4180,
+    "name": "Thybo Biler",
+    "address": "Håndværkervej 1",
+    "zipAndCity": "7770 Vestervig",
+    "website": "https://www.thybobiler.dk",
+    "phone": "97941388",
+    "adCount": 4
+  },
+  {
+    "id": 4133,
+    "name": "Mejlby Autoværksted A/S",
+    "address": "Randersvej 51",
+    "zipAndCity": "8981 Spentrup",
+    "website": "https://www.mejlbyauto.dk",
+    "phone": "86441411",
+    "adCount": 16
+  },
+  {
+    "id": 75,
+    "name": "Lihn & Boi A/S",
+    "address": "Gl. Skivevej 80",
+    "zipAndCity": "8800 Viborg",
+    "website": "https://www.lihnogboi.dk",
+    "phone": "86624522",
+    "adCount": 18
+  },
+  {
+    "id": 158,
+    "name": "Volkswagen Slagelse",
+    "address": "Elmedalsvej 7",
+    "zipAndCity": "4200 Slagelse",
+    "website": "https://www.vw-slagelse.dk",
+    "phone": "58504300",
+    "adCount": 31
+  },
+  {
+    "id": 2382,
+    "name": "Autohuset Kronsbjerg A/S - Nyborg",
+    "address": "Lyøvej 2",
+    "zipAndCity": "5800 Nyborg",
+    "website": "https://www.kronsbjerg.dk",
+    "phone": "66125122",
+    "adCount": 5
+  },
+  {
+    "id": 805,
+    "name": "Andersen & Martini A/S",
+    "address": "Gladsaxevej 340",
+    "zipAndCity": "2860 Søborg",
+    "website": "https://am.dk",
+    "phone": "70887160",
+    "adCount": 90
+  },
+  {
+    "id": 5954,
+    "name": "Terminalen Esbjerg A/S",
+    "address": "Storstrømsvej 4",
+    "zipAndCity": "6715 Esbjerg N",
+    "website": "https://www.terminalen.dk",
+    "phone": "76140600",
+    "adCount": 48
+  },
+  {
+    "id": 4458,
+    "name": "Semler Mobility Aalborg A/S",
+    "address": "Ny Kærvej 47",
+    "zipAndCity": "9000 Aalborg",
+    "website": "https://aalborg.audi.dk",
+    "phone": "70701025",
+    "adCount": 113
+  },
+  {
+    "id": 5570,
+    "name": "Meiniche A/S",
+    "address": "Jens Baggesens Vej 5",
+    "zipAndCity": "7500 Holstebro",
+    "website": "https://www.meiniche.dk",
+    "phone": "97423033",
+    "adCount": 21
+  },
+  {
+    "id": 3274,
+    "name": "Jan Nygaard A/S",
+    "address": "Firskovvej 33",
+    "zipAndCity": "2800 Kongens Lyngby",
+    "website": "https://www.jan-nygaard.dk",
+    "phone": "45886600",
+    "adCount": 68
+  },
+  {
+    "id": 5159,
+    "name": "Uggerhøj Aarhus",
+    "address": "Slet Parkvej 2",
+    "zipAndCity": "8310 Tranbjerg J",
+    "website": "https://www.uggerhoej.dk",
+    "phone": "87375555",
+    "adCount": 50
+  },
+  {
+    "id": 3970,
+    "name": "Bayern Autogroup Odense",
+    "address": "Sivmosevænget 1",
+    "zipAndCity": "5260 Odense S",
+    "website": "https://www.bag.dk",
+    "phone": "66123333",
+    "adCount": 36
+  },
+  {
+    "id": 5431,
+    "name": "Poul Munk A/S",
+    "address": "Nørrevænget 15",
+    "zipAndCity": "8600 Silkeborg",
+    "website": "https://www.poul-munk.dk",
+    "phone": "86822700",
+    "adCount": 75
+  },
+  {
+    "id": 3701,
+    "name": "P. Christensen A/S",
+    "address": "Rovsingsgade 40",
+    "zipAndCity": "2100 København Ø",
+    "website": "https://pchristensen.dk",
+    "phone": "70202203",
+    "adCount": 55
+  },
+  {
+    "id": 4963,
+    "name": "P. Christensen A/S",
+    "address": "Trianglen 11",
+    "zipAndCity": "6000 Kolding",
+    "website": "https://www.peugeot.dk/kolding",
+    "phone": "70202203",
+    "adCount": 43
+  },
+  {
+    "id": 4532,
+    "name": "FJ BILER A/S",
+    "address": "Mariagervej 153",
+    "zipAndCity": "8920 Randers NV",
+    "website": "https://www.fjbiler.dk",
+    "phone": "86437700",
+    "adCount": 34
+  },
+  {
+    "id": 2745,
+    "name": "Bayern Autogroup Aarhus",
+    "address": "Blomstervej 4",
+    "zipAndCity": "8210 Aarhus V",
+    "website": "https://www.bag.dk",
+    "phone": "87430300",
+    "adCount": 61
+  },
+  {
+    "id": 2888,
+    "name": "Autocentralen Vejen",
+    "address": "Vestermarksvej 1",
+    "zipAndCity": "6600 Vejen",
+    "website": "https://www.autocentralen.com",
+    "phone": "75366966",
+    "adCount": 34
+  },
+  {
+    "id": 3537,
+    "name": "Toftegaard Biler A/S",
+    "address": "Tåstruphøj 44",
+    "zipAndCity": "4300 Holbæk",
+    "website": "https://toftegaardbiler.dk",
+    "phone": "59440540",
+    "adCount": 58
+  },
+  {
+    "id": 5957,
+    "name": "Terminalen Aarhus A/S",
+    "address": "Grenåvej 337",
+    "zipAndCity": "8240 Risskov",
+    "website": "https://www.terminalen.dk",
+    "phone": "86177100",
+    "adCount": 51
+  },
+  {
+    "id": 5962,
+    "name": "REA Erhvervsbiler A/S",
+    "address": "Københavnsvej 176",
+    "zipAndCity": "4000 Roskilde",
+    "website": "https://rea.as",
+    "phone": "46757100",
+    "adCount": 13
+  },
+  {
+    "id": 2787,
+    "name": "Poul Rasmussen Bilcenter A/S",
+    "address": "Graham Bells Vej 15",
+    "zipAndCity": "8200 Aarhus N",
+    "website": "https://www.prb.dk",
+    "phone": "87413020",
+    "adCount": 30
+  },
+  {
+    "id": 223,
+    "name": "REA Erhvervsbiler A/S",
+    "address": "Skovsøviadukten 2",
+    "zipAndCity": "4200 Slagelse",
+    "website": "https://rea.as",
+    "phone": "60559559",
+    "adCount": 64
+  },
+  {
+    "id": 5023,
+    "name": "Pedersen & Nielsen Automobilforretning A/S",
+    "address": "Ravnsøvej 2",
+    "zipAndCity": "8240 Risskov",
+    "website": "https://www.autohus.dk",
+    "phone": "87466000",
+    "adCount": 89
+  },
+  {
+    "id": 242,
+    "name": "Pedersen & Nielsen Automobilforretning A/S",
+    "address": "Århusvej 115",
+    "zipAndCity": "8960 Randers SØ",
+    "website": "https://www.autohus.dk",
+    "phone": "86422511",
+    "adCount": 124
+  },
+  {
+    "id": 879,
+    "name": "Pedersen & Nielsen Automobilforretning A/S",
+    "address": "Rugvænget 29",
+    "zipAndCity": "8500 Grenaa",
+    "website": "https://www.autohus.dk",
+    "phone": "86321500",
+    "adCount": 23
+  },
+  {
+    "id": 186,
+    "name": "Ole Winther Auto A/S",
+    "address": "Fejøvej 15",
+    "zipAndCity": "8600 Silkeborg",
+    "website": "https://olewinther.dk",
+    "phone": "27872503",
+    "adCount": 68
+  },
+  {
+    "id": 2445,
+    "name": "Jørgen Laursen A/S",
+    "address": "Katkjærvej 7",
+    "zipAndCity": "7800 Skive",
+    "website": "https://www.jorgenlaursen.dk",
+    "phone": "97514966",
+    "adCount": 10
+  },
+  {
+    "id": 31,
+    "name": "Kjærsgaard Auto Aalborg A/S",
+    "address": "Haandværkervej 22",
+    "zipAndCity": "9000 Aalborg",
+    "website": "https://dytdyt.com",
+    "phone": "98137100",
+    "adCount": 38
+  },
+  {
+    "id": 351,
+    "name": "Krogsgaard-Jensen Automobiler A/S",
+    "address": "Energivej 12",
+    "zipAndCity": "2750 Ballerup",
+    "website": "https://www.krogsgaard-biler.dk",
+    "phone": "44525001",
+    "adCount": 11
+  },
+  {
+    "id": 5035,
+    "name": "Krogsgaard-Jensen Automobiler A/S",
+    "address": "Kongevejen 82",
+    "zipAndCity": "3460 Birkerød",
+    "website": "https://www.krogsgaard-biler.dk",
+    "phone": "45993219",
+    "adCount": 27
+  },
+  {
+    "id": 2596,
+    "name": "Krogsgaard-Jensen Automobiler A/S",
+    "address": "Herlev Hovedgade 197",
+    "zipAndCity": "2730 Herlev",
+    "website": "https://www.krogsgaard-biler.dk",
+    "phone": "70102110",
+    "adCount": 24
+  },
+  {
+    "id": 814,
+    "name": "Krogsgaard-Jensen Automobiler A/S",
+    "address": "Mesterlodden 37",
+    "zipAndCity": "2820 Gentofte",
+    "website": "https://www.krogsgaard-biler.dk",
+    "phone": "70102110",
+    "adCount": 26
+  },
+  {
+    "id": 567,
+    "name": "Jensen & Nørgård A/S",
+    "address": "Vestermarksvej 3",
+    "zipAndCity": "7200 Grindsted",
+    "website": "https://www.jensenognoergaard.dk",
+    "phone": "75321311",
+    "adCount": 18
+  },
+  {
+    "id": 7031,
+    "name": "Henrik Hansen Automobiler A/S",
+    "address": "Kulsøvej 8",
+    "zipAndCity": "4760 Vordingborg",
+    "website": "https://www.hh-as.dk",
+    "phone": "22174041",
+    "adCount": 31
+  },
+  {
+    "id": 280,
+    "name": "Henrik Hansen Automobiler A/S",
+    "address": "Transportbuen 2",
+    "zipAndCity": "4700 Næstved",
+    "website": "https://forh.peugeot.dk/naestved",
+    "phone": "55774041",
+    "adCount": 40
+  },
+  {
+    "id": 4293,
+    "name": "Fiat, Brørup-Rødding V/Henning Jensen",
+    "address": "Sommerlyst 29",
+    "zipAndCity": "6630 Rødding",
+    "website": "https://www.fiat-broerup-roedding.dk",
+    "phone": "74841588",
+    "adCount": 4
+  },
+  {
+    "id": 540,
+    "name": "Folkersen Automobiler ApS",
+    "address": "Bomose Alle 15",
+    "zipAndCity": "3200 Helsinge",
+    "website": "https://www.folkersen-automobiler.dk",
+    "phone": "48797767",
+    "adCount": 10
+  },
+  {
+    "id": 600,
+    "name": "Helge Andersen Frederikshavn A/S",
+    "address": "Toftegårdsvej 2",
+    "zipAndCity": "9900 Frederikshavn",
+    "website": "https://www.andersen-frederikshavn.dk",
+    "phone": "98433033",
+    "adCount": 48
+  },
+  {
+    "id": 78,
+    "name": "Jørgen Laursen A/S",
+    "address": "Gl. Skivevej 74",
+    "zipAndCity": "8800 Viborg",
+    "website": "https://www.jorgenlaursen.dk",
+    "phone": "20160211",
+    "adCount": 21
+  },
+  {
+    "id": 5579,
+    "name": "Fjord-Frandsen biler",
+    "address": "Niels Bohrs Vej 2",
+    "zipAndCity": "6100 Haderslev",
+    "website": "https://www.fjord-frandsen.dk",
+    "phone": "73541332",
+    "adCount": 26
+  },
+  {
+    "id": 3382,
+    "name": "Citroën, Hyundai, Opel - Frimann Biler A/S",
+    "address": "Energivej 1- 3",
+    "zipAndCity": "4800 Nykøbing F",
+    "website": "https://www.frimannbiler.dk",
+    "phone": "78771011",
+    "adCount": 44
+  },
+  {
+    "id": 2818,
+    "name": "Djarlo Automobiler A/S",
+    "address": "Støberivej 1",
+    "zipAndCity": "3000 Helsingør",
+    "website": "https://djarlo.dk",
+    "phone": "49184418",
+    "adCount": 11
+  },
+  {
+    "id": 4877,
+    "name": "Bent Pedersen A/S",
+    "address": "Jeppe Skovgaards Vej 1",
+    "zipAndCity": "6800 Varde",
+    "website": "https://www.bent-pedersen.dk",
+    "phone": "76140970",
+    "adCount": 17
+  },
+  {
+    "id": 2758,
+    "name": "bilerne.com",
+    "address": "Thurøvej 2",
+    "zipAndCity": "9500 Hobro",
+    "website": "https://www.bilerne.com",
+    "phone": "61680142",
+    "adCount": 22
+  },
+  {
+    "id": 248,
+    "name": "Automobilhuset Randers A/S",
+    "address": "Clausholmvej 3",
+    "zipAndCity": "8960 Randers SØ",
+    "website": "https://www.bilerne.com",
+    "phone": "86422800",
+    "adCount": 42
+  },
+  {
+    "id": 700,
+    "name": "Bilhuset Hjørring A/S",
+    "address": "Frederikshavnsvej 41",
+    "zipAndCity": "9800 Hjørring",
+    "website": "https://forh.peugeot.dk/hjorring",
+    "phone": "98926800",
+    "adCount": 26
+  },
+  {
+    "id": 5929,
+    "name": "Autonorden A/S",
+    "address": "Englandsvej 391",
+    "zipAndCity": "2770 Kastrup",
+    "website": "https://www.autonorden.dk",
+    "phone": "32476060",
+    "adCount": 33
+  },
+  {
+    "id": 4223,
+    "name": "Autocentralen Haderslev",
+    "address": "Hirsevej 1",
+    "zipAndCity": "6100 Haderslev",
+    "website": "https://www.autocentralen.com",
+    "phone": "74523650",
+    "adCount": 39
+  },
+  {
+    "id": 601,
+    "name": "ATbiler A/S",
+    "address": "Vejlevej 117",
+    "zipAndCity": "7000 Fredericia",
+    "website": "https://www.atbiler.dk",
+    "phone": "75924100",
+    "adCount": 40
+  },
+  {
+    "id": 4790,
+    "name": "Djarlo Automobiler A/S",
+    "address": "Nærum Hovedgade 2",
+    "zipAndCity": "2850 Nærum",
+    "website": "https://djarlo.dk",
+    "phone": "49184418",
+    "adCount": 21
+  },
+  {
+    "id": 5985,
+    "name": "Car Special A/S",
+    "address": "Industriskellet 9-11",
+    "zipAndCity": "2635 Ishøj",
+    "website": "https://www.carspecial.dk",
+    "phone": "43543040",
+    "adCount": 25
+  },
+  {
+    "id": 2760,
+    "name": "Djarlo Automobiler A/S",
+    "address": "Niverød Erhvervspark 2",
+    "zipAndCity": "2990 Nivå",
+    "website": "https://djarlo.dk",
+    "phone": "49184418",
+    "adCount": 17
+  },
+  {
+    "id": 4142,
+    "name": "ATbiler A/S",
+    "address": "Høegh Guldbergsgade 31",
+    "zipAndCity": "8700 Horsens",
+    "website": "https://www.atbiler.dk",
+    "phone": "75620011",
+    "adCount": 27
+  },
+  {
+    "id": 337,
+    "name": "Bilhuset Køge A/S",
+    "address": "Tangmosevej 95",
+    "zipAndCity": "4600 Køge",
+    "website": "https://www.peugeot-koge.dk",
+    "phone": "56640000",
+    "adCount": 62
+  },
+  {
+    "id": 5699,
+    "name": "Bent Pedersen A/S",
+    "address": "Hedelundvej 11",
+    "zipAndCity": "6705 Esbjerg Ø",
+    "website": "https://www.bent-pedersen.dk",
+    "phone": "75134400",
+    "adCount": 39
+  },
+  {
+    "id": 7026,
+    "name": "CB AUTO RIBE ApS",
+    "address": "Industrivej 47",
+    "zipAndCity": "6760 Ribe",
+    "website": "https://www.cbauto.dk",
+    "phone": "75423611",
+    "adCount": 168
+  },
+  {
+    "id": 5100,
+    "name": "Autohuset Vestergaard A/S",
+    "address": "Hestehaven 1",
+    "zipAndCity": "5260 Odense S",
+    "website": "https://www.autohuset-vestergaard.dk",
+    "phone": "66141414",
+    "adCount": 40
+  },
+  {
+    "id": 4117,
+    "name": "Bayern Autogroup Esbjerg A/S",
+    "address": "Storstrømsvej 4",
+    "zipAndCity": "6715 Esbjerg N",
+    "website": "https://www.bag.dk",
+    "phone": "70300520",
+    "adCount": 18
+  },
+  {
+    "id": 2747,
+    "name": "Bayern Autogroup Kolding",
+    "address": "Trianglen 5",
+    "zipAndCity": "6000 Kolding",
+    "website": "https://www.bag.dk",
+    "phone": "42141077",
+    "adCount": 43
+  },
+  {
+    "id": 4462,
+    "name": "Semler Mobility Odense A/S",
+    "address": "Middelfartvej 50",
+    "zipAndCity": "5200 Odense V",
+    "website": "https://odense.audi.dk",
+    "phone": "70701025",
+    "adCount": 43
+  },
+  {
+    "id": 4463,
+    "name": "Semler Mobility Risskov A/S",
+    "address": "Grenåvej 347",
+    "zipAndCity": "8240 Risskov",
+    "website": "https://aarhus.audi.dk",
+    "phone": "70701025",
+    "adCount": 93
+  },
+  {
+    "id": 3468,
+    "name": "Autohuset Glostrup – Valby",
+    "address": "Spontinisvej 5",
+    "zipAndCity": "2450 København SV",
+    "website": "https://www.autohuset-glostrup-valby.dk",
+    "phone": "36177777",
+    "adCount": 6
+  },
+  {
+    "id": 2842,
+    "name": "ATbiler A/S",
+    "address": "Haderslevvej 1",
+    "zipAndCity": "7100 Vejle",
+    "website": "https://www.atbiler.dk",
+    "phone": "75806500",
+    "adCount": 57
+  },
+  {
+    "id": 4460,
+    "name": "Semler Mobility Audi Holbæk A/S",
+    "address": "Bilbyen 1",
+    "zipAndCity": "4300 Holbæk",
+    "website": "https://holbaek.audi.dk",
+    "phone": "70701025",
+    "adCount": 17
+  },
+  {
+    "id": 3750,
+    "name": "Semler Mobility Audi Gladsaxe A/S",
+    "address": "Turbinevej 1",
+    "zipAndCity": "2860 Søborg",
+    "website": "https://gladsaxe.audi.dk",
+    "phone": "70701025",
+    "adCount": 45
+  },
+  {
+    "id": 3939,
+    "name": "Semler Mobility Audi Fredericia A/S",
+    "address": "Kongens Kvarter 32",
+    "zipAndCity": "7000 Fredericia",
+    "website": "https://fredericia.audi.dk",
+    "phone": "70701025",
+    "adCount": 77
+  },
+  {
+    "id": 4459,
+    "name": "Semler Mobility Amager A/S",
+    "address": "Englandsvej 437",
+    "zipAndCity": "2770 Kastrup",
+    "website": "https://amager.audi.dk",
+    "phone": "70701025",
+    "adCount": 40
+  },
+  {
+    "id": 649,
+    "name": "Bilcentret Birkerød",
+    "address": "Birkerød Kongevej 59",
+    "zipAndCity": "3460 Birkerød",
+    "website": "https://www.vw-birkerod.dk",
+    "phone": "45810706",
+    "adCount": 20
+  },
+  {
+    "id": 304,
+    "name": "Autogroup lf A/S",
+    "address": "Herningvej 24B",
+    "zipAndCity": "4800 Nykøbing F",
+    "website": "https://www.vw-nykf.dk",
+    "phone": "54822100",
+    "adCount": 11
+  },
+  {
+    "id": 4461,
+    "name": "Semler Mobility Audi Hørsholm A/S",
+    "address": "Kokkedal Industripark 6",
+    "zipAndCity": "2980 Kokkedal",
+    "website": "https://hoersholm.audi.dk",
+    "phone": "70701025",
+    "adCount": 48
+  },
+  {
+    "id": 889,
+    "name": "Pedersen & Nielsen Automobilforretning A/S",
+    "address": "Maigårdsvej 5",
+    "zipAndCity": "9900 Frederikshavn",
+    "website": "https://www.autohus.dk",
+    "phone": "98424344",
+    "adCount": 30
+  },
+  {
+    "id": 5834,
+    "name": "Via Biler A/S",
+    "address": "Volvo - Vallensbækvej 71",
+    "zipAndCity": "2625 Vallensbæk",
+    "website": "https://www.viabiler.dk",
+    "phone": "73708010",
+    "adCount": 41
+  },
+  {
+    "id": 228,
+    "name": "Harry Mikkelsen Ringsted A/S",
+    "address": "Haslevvej 12",
+    "zipAndCity": "4100 Ringsted",
+    "website": "https://www.harrymikkelsen.dk",
+    "phone": "57611204",
+    "adCount": 40
+  },
+  {
+    "id": 5536,
+    "name": "Volvo København",
+    "address": "Bryggervangen 39",
+    "zipAndCity": "2100 København Ø",
+    "website": "https://www.volvo.nellemann.dk",
+    "phone": "70887847",
+    "adCount": 23
+  },
+  {
+    "id": 277,
+    "name": "Skoda Nørresundby A/S",
+    "address": "Hjørringvej 142",
+    "zipAndCity": "9400 Nørresundby",
+    "website": "https://www.skoda-norresundby.dk",
+    "phone": "98172599",
+    "adCount": 24
+  },
+  {
+    "id": 828,
+    "name": "Andersen & Martini A/S",
+    "address": "Hovedvejen 196",
+    "zipAndCity": "2600 Glostrup",
+    "website": "https://am.dk",
+    "phone": "70886142",
+    "adCount": 38
+  },
+  {
+    "id": 3851,
+    "name": "P. Christensen A/S",
+    "address": "Trianglen 11",
+    "zipAndCity": "6000 Kolding",
+    "website": "https://pchristensen.dk",
+    "phone": "70202203",
+    "adCount": 0
+  },
+  {
+    "id": 713,
+    "name": "Pedersen & Nielsen Automobilforretning A/S",
+    "address": "Jyllandsgade 28",
+    "zipAndCity": "9000 Aalborg",
+    "website": "https://www.autohus.dk",
+    "phone": "98111644",
+    "adCount": 63
+  },
+  {
+    "id": 2733,
+    "name": "P. Christensen A/S",
+    "address": "Krumtappen 20",
+    "zipAndCity": "5260 Odense S",
+    "website": "https://pchristensen.dk",
+    "phone": "70202203",
+    "adCount": 7
+  },
+  {
+    "id": 3530,
+    "name": "Ejner Hessel A/S",
+    "address": "Agerøvej 53",
+    "zipAndCity": "8381 Tilst",
+    "website": "https://www.hessel.dk",
+    "phone": "72115016",
+    "adCount": 35
+  },
+  {
+    "id": 5535,
+    "name": "Nellemann Roskilde",
+    "address": "Betonvej 1",
+    "zipAndCity": "4000 Roskilde",
+    "website": "https://www.kia.com/dk/forhandler/roskilde",
+    "phone": "70887825",
+    "adCount": 23
+  },
+  {
+    "id": 2841,
+    "name": "Via Biler A/S",
+    "address": "Toyota - Thrigesvej 1",
+    "zipAndCity": "8600 Silkeborg",
+    "website": "https://www.viabiler.dk",
+    "phone": "87248700",
+    "adCount": 33
+  },
+  {
+    "id": 100,
+    "name": "Varde Biler A/S",
+    "address": "Jeppe Skovgaardsvej 11",
+    "zipAndCity": "6800 Varde",
+    "website": "https://www.vardebiler.dk",
+    "phone": "75222800",
+    "adCount": 28
+  },
+  {
+    "id": 7657,
+    "name": "Semler Mobility Risskov A/S",
+    "address": "Grenåvej 347",
+    "zipAndCity": "8240 Risskov",
+    "website": "https://www.skoda-risskov.dk",
+    "phone": "87418500",
+    "adCount": 32
+  },
+  {
+    "id": 614,
+    "name": "Bent Pedersen A/S",
+    "address": "Storegade 244",
+    "zipAndCity": "6705 Esbjerg Ø",
+    "website": "https://www.bent-pedersen.dk",
+    "phone": "75140355",
+    "adCount": 24
+  },
+  {
+    "id": 5928,
+    "name": "V. Holm Jensen A/S",
+    "address": "Peder Wessels Vej 11",
+    "zipAndCity": "5220 Odense SØ",
+    "website": "https://www.vhj.dk",
+    "phone": "61810202",
+    "adCount": 0
+  },
+  {
+    "id": 5154,
+    "name": "Uggerhøj Aalborg",
+    "address": "Enggårdsgade 74",
+    "zipAndCity": "9000 Aalborg",
+    "website": "https://www.uggerhoej.dk",
+    "phone": "98123600",
+    "adCount": 26
+  },
+  {
+    "id": 5858,
+    "name": "Via Biler A/S",
+    "address": "Kejlstruphøjvej 2",
+    "zipAndCity": "8600 Silkeborg",
+    "website": "https://www.viabiler.dk",
+    "phone": "87221010",
+    "adCount": 98
+  },
+  {
+    "id": 5900,
+    "name": "Sondrup Bilcenter A/S",
+    "address": "Gunnar Clausens Vej 4",
+    "zipAndCity": "8260 Viby J",
+    "website": "https://www.sondrup-bilcenter.dk",
+    "phone": "86282344",
+    "adCount": 23
+  },
+  {
+    "id": 541,
+    "name": "Seehusen Biler ApS",
+    "address": "Rundinsvej 63",
+    "zipAndCity": "3200 Helsinge",
+    "website": "https://www.seehusen-biler.dk",
+    "phone": "48798191",
+    "adCount": 17
+  },
+  {
+    "id": 638,
+    "name": "Mehlsen Automobiler A/S",
+    "address": "Assensvej 1",
+    "zipAndCity": "5672 Broby",
+    "website": "https://www.mehlsen.dk",
+    "phone": "62631155",
+    "adCount": 62
+  },
+  {
+    "id": 884,
+    "name": "Keld Hansen Bil A/S",
+    "address": "Korshøj 4",
+    "zipAndCity": "3600 Frederikssund",
+    "website": "http://www.khbil.dk",
+    "phone": "47310510",
+    "adCount": 10
+  },
+  {
+    "id": 5009,
+    "name": "V. Holm Jensen A/S",
+    "address": "Nyborgvej 240-260",
+    "zipAndCity": "5220 Odense SØ",
+    "website": "https://www.vhj.dk",
+    "phone": "66121314",
+    "adCount": 0
+  },
+  {
+    "id": 3887,
+    "name": "K. Westergaard Automobiler A/S",
+    "address": "Høegh Guldbergsgade 18",
+    "zipAndCity": "8700 Horsens",
+    "website": "https://www.kwestergaard.dk",
+    "phone": "75625133",
+    "adCount": 16
+  },
+  {
+    "id": 5588,
+    "name": "Hindsgaul Biler",
+    "address": "Fynsvej 15",
+    "zipAndCity": "5500 Middelfart",
+    "website": "https://www.hindsgaulbiler.dk",
+    "phone": "64411827",
+    "adCount": 41
+  },
+  {
+    "id": 7524,
+    "name": "Ejner Hessel A/S",
+    "address": "Gl. Køge Landevej 135",
+    "zipAndCity": "2500 Valby",
+    "website": "https://www.hessel.dk",
+    "phone": "73125600",
+    "adCount": 45
+  },
+  {
+    "id": 7523,
+    "name": "Ejner Hessel A/S",
+    "address": "Kirstinehøj 62",
+    "zipAndCity": "2770 Kastrup",
+    "website": "https://www.hessel.dk",
+    "phone": "73125500",
+    "adCount": 64
+  },
+  {
+    "id": 3526,
+    "name": "Ejner Hessel A/S",
+    "address": "Løvevej 15",
+    "zipAndCity": "7700 Thisted",
+    "website": "https://www.hessel.dk",
+    "phone": "72116911",
+    "adCount": 0
+  },
+  {
+    "id": 531,
+    "name": "Helsingør Bilhus af 2009 ApS",
+    "address": "H C Ørsteds Vej 10",
+    "zipAndCity": "3000 Helsingør",
+    "website": "https://www.helsingorbilhus.dk",
+    "phone": "49222144",
+    "adCount": 25
+  },
+  {
+    "id": 3532,
+    "name": "Ejner Hessel A/S",
+    "address": "Tolstrup Byvej 1",
+    "zipAndCity": "9600 Aars",
+    "website": "https://www.hessel.dk",
+    "phone": "72116811",
+    "adCount": 11
+  },
+  {
+    "id": 3523,
+    "name": "Ejner Hessel A/S",
+    "address": "Birkmosevej 14",
+    "zipAndCity": "6950 Ringkøbing",
+    "website": "https://www.hessel.dk",
+    "phone": "72116413",
+    "adCount": 14
+  },
+  {
+    "id": 3518,
+    "name": "Ejner Hessel A/S",
+    "address": "Vester Hedevej 255",
+    "zipAndCity": "9800 Hjørring",
+    "website": "https://www.hessel.dk",
+    "phone": "72115315",
+    "adCount": 22
+  },
+  {
+    "id": 3440,
+    "name": "Ejner Hessel A/S",
+    "address": "Roskildevej 20",
+    "zipAndCity": "2620 Albertslund",
+    "website": "https://www.hessel.dk",
+    "phone": "73125811",
+    "adCount": 38
+  },
+  {
+    "id": 779,
+    "name": "Ejner Hessel A/S",
+    "address": "Transportbuen 1",
+    "zipAndCity": "4700 Næstved",
+    "website": "https://www.hessel.dk",
+    "phone": "20858446",
+    "adCount": 21
+  },
+  {
+    "id": 3524,
+    "name": "Ejner Hessel A/S",
+    "address": "Stagehøjvej 3",
+    "zipAndCity": "8600 Silkeborg",
+    "website": "https://www.hessel.dk",
+    "phone": "72116513",
+    "adCount": 20
+  },
+  {
+    "id": 3522,
+    "name": "Ejner Hessel A/S",
+    "address": "Ribevej 11",
+    "zipAndCity": "8900 Randers C",
+    "website": "https://www.hessel.dk",
+    "phone": "72115112",
+    "adCount": 21
+  },
+  {
+    "id": 1002,
+    "name": "Dahl Pedersen A/S",
+    "address": "Nybovej 39",
+    "zipAndCity": "7500 Holstebro",
+    "website": "https://www.dahlpedersen.dk",
+    "phone": "88811910",
+    "adCount": 15
+  },
+  {
+    "id": 756,
+    "name": "Ejner Hessel A/S",
+    "address": "Bragesvej 9",
+    "zipAndCity": "4100 Ringsted",
+    "website": "https://www.hessel.dk",
+    "phone": "73117200",
+    "adCount": 36
+  },
+  {
+    "id": 171,
+    "name": "Dahl Pedersen A/S",
+    "address": "Viborgvej 2",
+    "zipAndCity": "7800 Skive",
+    "website": "https://www.dahlpedersen.dk",
+    "phone": "88811905",
+    "adCount": 15
+  },
+  {
+    "id": 5518,
+    "name": "Bjarne Nielsen A/S",
+    "address": "Falkevej 4A",
+    "zipAndCity": "3400 Hillerød",
+    "website": "https://www.bn.dk",
+    "phone": "70886826",
+    "adCount": 58
+  },
+  {
+    "id": 739,
+    "name": "Ejner Hessel A/S",
+    "address": "Merkurvej 1",
+    "zipAndCity": "4200 Slagelse",
+    "website": "https://www.hessel.dk",
+    "phone": "73117312",
+    "adCount": 29
+  },
+  {
+    "id": 5097,
+    "name": "Autohuset Vestergaard A/S",
+    "address": "Odensevej 42",
+    "zipAndCity": "5700 Svendborg",
+    "website": "https://www.autohuset-vestergaard.dk",
+    "phone": "63213811",
+    "adCount": 32
+  },
+  {
+    "id": 7030,
+    "name": "Bin2Bil A/S",
+    "address": "Elmegade 31",
+    "zipAndCity": "4400 Kalundborg",
+    "website": "https://www.bin2bil.dk",
+    "phone": "59512020",
+    "adCount": 47
+  },
+  {
+    "id": 7042,
+    "name": "Autohuset Glostrup A/S",
+    "address": "Vallensbækvej 37-39",
+    "zipAndCity": "2605 Brøndby",
+    "website": "https://www.autohuset-glostrup.dk",
+    "phone": "43965500",
+    "adCount": 0
+  },
+  {
+    "id": 3626,
+    "name": "Bilgo i Køge",
+    "address": "Valdemarshaab 6C",
+    "zipAndCity": "4600 Køge",
+    "website": "https://www.bilgo.dk",
+    "phone": "51857244",
+    "adCount": 50
+  },
+  {
+    "id": 4759,
+    "name": "Auto Fjerritslev A/S",
+    "address": "Vestergade 48",
+    "zipAndCity": "9690 Fjerritslev",
+    "website": "https://www.autofjerritslev.dk",
+    "phone": "98211444",
+    "adCount": 22
+  },
+  {
+    "id": 5095,
+    "name": "Autohuset Vestergaard A/S",
+    "address": "Strandvejen 220",
+    "zipAndCity": "7000 Fredericia",
+    "website": "https://www.autohuset-vestergaard.dk",
+    "phone": "75923611",
+    "adCount": 55
+  },
+  {
+    "id": 145,
+    "name": "Bil Center Syd A/S",
+    "address": "Vordingborgvej 19",
+    "zipAndCity": "4773 Stensved",
+    "website": "https://www.bilcentersyd.dk",
+    "phone": "55386027",
+    "adCount": 17
+  },
+  {
+    "id": 2424,
+    "name": "UJS Biler Thisted A/S",
+    "address": "Tigervej 5",
+    "zipAndCity": "7700 Thisted",
+    "website": "https://www.ujs-biler.dk",
+    "phone": "96180300",
+    "adCount": 27
+  },
+  {
+    "id": 5955,
+    "name": "Terminalen Taastrup A/S",
+    "address": "Øtoftegårdsvej 2",
+    "zipAndCity": "2630 Taastrup",
+    "website": "https://www.terminalen.dk",
+    "phone": "43994045",
+    "adCount": 50
+  },
+  {
+    "id": 5824,
+    "name": "Tang Biler A/S",
+    "address": "Skaadsmosevej 14",
+    "zipAndCity": "6950 Ringkøbing",
+    "website": "https://tangbiler.dk",
+    "phone": "97321866",
+    "adCount": 23
+  },
+  {
+    "id": 3496,
+    "name": "Sørensen Biler, Helsinge A/S",
+    "address": "Tofte Industri 1",
+    "zipAndCity": "3200 Helsinge",
+    "website": "https://www.sorensenbiler.dk",
+    "phone": "48795136",
+    "adCount": 5
+  },
+  {
+    "id": 5619,
+    "name": "Ulsted Autohandel",
+    "address": "Vestergade 43",
+    "zipAndCity": "9370 Hals",
+    "website": "https://www.ulsted-autohandel.dk",
+    "phone": "96542200",
+    "adCount": 25
+  },
+  {
+    "id": 698,
+    "name": "Terminalen Odense S A/S",
+    "address": "Rolundvej 11",
+    "zipAndCity": "5260 Odense S",
+    "website": "https://www.terminalen.dk",
+    "phone": "63955200",
+    "adCount": 50
+  },
+  {
+    "id": 5823,
+    "name": "Tang Biler A/S",
+    "address": "Nybo Bakke 1",
+    "zipAndCity": "7500 Holstebro",
+    "website": "https://tangbiler.dk",
+    "phone": "96105151",
+    "adCount": 11
+  },
+  {
+    "id": 141,
+    "name": "Thorkild Pedersen Automobiler ApS",
+    "address": "Fælledvej 25",
+    "zipAndCity": "7600 Struer",
+    "website": "https://struersfriskebilhus.dk",
+    "phone": "97851611",
+    "adCount": 39
+  },
+  {
+    "id": 539,
+    "name": "Sørensen Biler ApS",
+    "address": "Tofte Industri 1",
+    "zipAndCity": "3200 Helsinge",
+    "website": "https://www.sorensenbiler.dk",
+    "phone": "48798500",
+    "adCount": 30
+  },
+  {
+    "id": 5897,
+    "name": "Selch Biler A/S",
+    "address": "Birkerød Kongevej 85",
+    "zipAndCity": "3460 Birkerød",
+    "website": "https://www.selch-auto.dk",
+    "phone": "45817278",
+    "adCount": 4
+  },
+  {
+    "id": 178,
+    "name": "Skanderborg Bilcentrum A/S",
+    "address": "Grønlandsvej 6",
+    "zipAndCity": "8660 Skanderborg",
+    "website": "https://www.skanderborg-bilcentrum.dk",
+    "phone": "87932900",
+    "adCount": 16
+  },
+  {
+    "id": 354,
+    "name": "Spar To Biler ApS",
+    "address": "Roskildevej 549",
+    "zipAndCity": "2605 Brøndby",
+    "website": "https://www.spar-to.dk",
+    "phone": "43434045",
+    "adCount": 22
+  },
+  {
+    "id": 5861,
+    "name": "Nyborg Bilcenter A/S",
+    "address": "Alsvej 2",
+    "zipAndCity": "5800 Nyborg",
+    "website": "https://www.nyborgbilcenter.dk",
+    "phone": "65302200",
+    "adCount": 0
+  },
+  {
+    "id": 5617,
+    "name": "Pedersen & Nielsen Automobilforretning A/S",
+    "address": "Industrivej 114",
+    "zipAndCity": "8963 Auning",
+    "website": "https://www.autohus.dk",
+    "phone": "87109737",
+    "adCount": 39
+  },
+  {
+    "id": 32,
+    "name": "N.O. Jensen A/S",
+    "address": "Hattemagervej 16",
+    "zipAndCity": "9000 Aalborg",
+    "website": "https://www.no-jensen.dk",
+    "phone": "96316660",
+    "adCount": 46
+  },
+  {
+    "id": 5826,
+    "name": "P. Sørensen, Øster Assels A/S",
+    "address": "Asselsvej 166",
+    "zipAndCity": "7990 Øster Assels",
+    "website": "https://www.p-soerensen.dk",
+    "phone": "97764083",
+    "adCount": 25
+  },
+  {
+    "id": 5659,
+    "name": "Mogens Schelde Hansen",
+    "address": "Søndergade 109",
+    "zipAndCity": "6600 Vejen",
+    "website": "https://www.mogensscheldehansen.dk",
+    "phone": "75363444",
+    "adCount": 19
+  },
+  {
+    "id": 134,
+    "name": "N. Kjær Bilcentret A/S",
+    "address": "Odensevej 94",
+    "zipAndCity": "5700 Svendborg",
+    "website": "https://www.nkjaer.dk",
+    "phone": "88811904",
+    "adCount": 118
+  },
+  {
+    "id": 5795,
+    "name": "Lysen Biler Ringsted",
+    "address": "Industriparken 6",
+    "zipAndCity": "4100 Ringsted",
+    "website": "https://lysenbiler.dk",
+    "phone": "57873120",
+    "adCount": 36
+  },
+  {
+    "id": 249,
+    "name": "Kaas-Biler I/S",
+    "address": "Brogårdsgade 10",
+    "zipAndCity": "9490 Pandrup",
+    "website": "https://www.kaas-biler.dk",
+    "phone": "98245087",
+    "adCount": 8
+  },
+  {
+    "id": 279,
+    "name": "Niels Petersen Automobiler A/S",
+    "address": "Holsted Park 12",
+    "zipAndCity": "4700 Næstved",
+    "website": "https://www.niels-petersen.dk",
+    "phone": "55720702",
+    "adCount": 46
+  },
+  {
+    "id": 5664,
+    "name": "Korff Bilcenter A/S",
+    "address": "Smedevænget 10",
+    "zipAndCity": "6430 Nordborg",
+    "website": "https://www.korffbilcenter.dk",
+    "phone": "74458448",
+    "adCount": 19
+  },
+  {
+    "id": 5309,
+    "name": "KOK MC",
+    "address": "Niels Ebbesensvej 10A",
+    "zipAndCity": "7500 Holstebro",
+    "website": "https://kok-mc.dk",
+    "phone": "97413722",
+    "adCount": 0
+  },
+  {
+    "id": 77,
+    "name": "Jørgen Olsen A/S",
+    "address": "Industrivej 16",
+    "zipAndCity": "8800 Viborg",
+    "website": "https://www.jorgenolsen.dk",
+    "phone": "86623222",
+    "adCount": 49
+  },
+  {
+    "id": 5510,
+    "name": "Jens Winther Automobiler ApS",
+    "address": "Maglegaardsvej 5",
+    "zipAndCity": "4000 Roskilde",
+    "website": "https://www.jenswinther.dk",
+    "phone": "46305200",
+    "adCount": 2
+  },
+  {
+    "id": 5863,
+    "name": "J. DAWALL & SØNNER ApS",
+    "address": "Grønnevej 141",
+    "zipAndCity": "2830 Virum",
+    "website": "https://www.dawall-virum.dk",
+    "phone": "45852390",
+    "adCount": 15
+  },
+  {
+    "id": 5628,
+    "name": "HJN Auto ApS",
+    "address": "Svinkløvvej 87",
+    "zipAndCity": "9690 Fjerritslev",
+    "website": "https://www.hjnauto.dk",
+    "phone": "98211600",
+    "adCount": 27
+  },
+  {
+    "id": 5695,
+    "name": "Gustav Christensen Automobiler A/S",
+    "address": "Nørre Allé 55",
+    "zipAndCity": "5610 Assens",
+    "website": "https://www.gcauto.dk",
+    "phone": "64711678",
+    "adCount": 4
+  },
+  {
+    "id": 4334,
+    "name": "Gunner Due Biler Stevns",
+    "address": "Frøslevvej 38",
+    "zipAndCity": "4660 Store Heddinge",
+    "website": "https://www.gunnerdue.dk",
+    "phone": "56510500",
+    "adCount": 0
+  },
+  {
+    "id": 974,
+    "name": "Grenaa Bil-Center A/S",
+    "address": "Fasanvej 40",
+    "zipAndCity": "8500 Grenaa",
+    "website": "https://www.gbc.dk",
+    "phone": "86320500",
+    "adCount": 17
+  },
+  {
+    "id": 4328,
+    "name": "Gunner Due Biler Køge A/S",
+    "address": "Tangmosevej 105",
+    "zipAndCity": "4600 Køge",
+    "website": "https://www.gunnerdue.dk",
+    "phone": "56653400",
+    "adCount": 3
+  },
+  {
+    "id": 3809,
+    "name": "GR Biler Skive A/S",
+    "address": "Katkjærvej 3",
+    "zipAndCity": "7800 Skive",
+    "website": "https://www.grbiler.dk",
+    "phone": "97514000",
+    "adCount": 52
+  },
+  {
+    "id": 5825,
+    "name": "Franks Auto ApS",
+    "address": "Krondrevet 2",
+    "zipAndCity": "4760 Vordingborg",
+    "website": "https://www.franksauto.dk",
+    "phone": "55370225",
+    "adCount": 23
+  },
+  {
+    "id": 948,
+    "name": "Henrik Christensen A/S",
+    "address": "Vesterballevej 7A",
+    "zipAndCity": "7000 Fredericia",
+    "website": "https://www.peugeot.dk/fredericia",
+    "phone": "75924001",
+    "adCount": 23
+  },
+  {
+    "id": 5898,
+    "name": "Frederikshavn Auto A/S",
+    "address": "Barfredsvej 7",
+    "zipAndCity": "9900 Frederikshavn",
+    "website": "https://www.frederikshavn-auto.dk",
+    "phone": "98432600",
+    "adCount": 15
+  },
+  {
+    "id": 322,
+    "name": "Edvardsen Biler APS",
+    "address": "Stavangervej 7",
+    "zipAndCity": "4900 Nakskov",
+    "website": "https://www.edvardsen-biler.dk",
+    "phone": "54928035",
+    "adCount": 12
+  },
+  {
+    "id": 5651,
+    "name": "Due Andersen Biler A/S",
+    "address": "Frejasvej 31",
+    "zipAndCity": "3400 Hillerød",
+    "website": "https://www.due-andersen.dk",
+    "phone": "48267666",
+    "adCount": 36
+  },
+  {
+    "id": 5782,
+    "name": "Dreyer Automobiler A/S",
+    "address": "Vandtårnsvej 79",
+    "zipAndCity": "2860 Søborg",
+    "website": "https://www.dreyer-auto.dk",
+    "phone": "39695529",
+    "adCount": 24
+  },
+  {
+    "id": 5597,
+    "name": "DK Automobiler A/S",
+    "address": "Dandyvej 5",
+    "zipAndCity": "7100 Vejle",
+    "website": "https://www.dkautomobiler.dk",
+    "phone": "75728000",
+    "adCount": 27
+  },
+  {
+    "id": 5594,
+    "name": "Daugaard Biler",
+    "address": "Rovsingsgade 88",
+    "zipAndCity": "2200 København N",
+    "website": "https://www.daugaardbiler.dk",
+    "phone": "39835900",
+    "adCount": 75
+  },
+  {
+    "id": 3178,
+    "name": "Ejner Hessel A/S",
+    "address": "Løvevej 17",
+    "zipAndCity": "7700 Thisted",
+    "website": "https://www.hessel.dk",
+    "phone": "51506680",
+    "adCount": 50
+  },
+  {
+    "id": 5555,
+    "name": "Finn Allan Eriksen Automobiler A/S",
+    "address": "Runetoften 21",
+    "zipAndCity": "8210 Aarhus V",
+    "website": "https://www.eriksen-motors.dk",
+    "phone": "86247500",
+    "adCount": 45
+  },
+  {
+    "id": 3364,
+    "name": "Carsten Andersen Biler ApS",
+    "address": "Gl. Køge Landevej 248",
+    "zipAndCity": "2650 Hvidovre",
+    "website": "https://www.suzuki-hvidovre.dk",
+    "phone": "36777200",
+    "adCount": 12
+  },
+  {
+    "id": 497,
+    "name": "Bøje Larsen A/S",
+    "address": "Randersvej 91",
+    "zipAndCity": "9500 Hobro",
+    "website": "https://www.bojelarsen.dk",
+    "phone": "98522977",
+    "adCount": 6
+  },
+  {
+    "id": 3472,
+    "name": "Brdr. Clausen Automobiler A/S",
+    "address": "Lundemarksvej 31",
+    "zipAndCity": "4300 Holbæk",
+    "website": "https://www.brdr-clausen.dk",
+    "phone": "59445050",
+    "adCount": 22
+  },
+  {
+    "id": 5984,
+    "name": "Birthe & Mogens Kloe ApS",
+    "address": "Fuglebækvej 10",
+    "zipAndCity": "3300 Frederiksværk",
+    "website": "https://www.kloeauto.dk",
+    "phone": "47770300",
+    "adCount": 11
+  },
+  {
+    "id": 5983,
+    "name": "Birthe & Mogens Kloe ApS",
+    "address": "Pedersholmparken 3",
+    "zipAndCity": "3600 Frederikssund",
+    "website": "https://www.kloeauto.dk",
+    "phone": "47313907",
+    "adCount": 10
+  },
+  {
+    "id": 5556,
+    "name": "C.A. Larsen Automobiler A/S",
+    "address": "Bygmestervej 25",
+    "zipAndCity": "5750 Ringe",
+    "website": null,
+    "phone": "88778700",
+    "adCount": 25
+  },
+  {
+    "id": 4239,
+    "name": "Bilcentret Haslev ApS",
+    "address": "Bregentvedvej 40",
+    "zipAndCity": "4690 Haslev",
+    "website": "https://bilcentret-haslev.dk",
+    "phone": "56312825",
+    "adCount": 16
+  },
+  {
+    "id": 1157,
+    "name": "Bilhuset Elmer A/S",
+    "address": "Kirstinehøj 66",
+    "zipAndCity": "2770 Kastrup",
+    "website": "https://www.bilhusetelmer.dk",
+    "phone": "32519090",
+    "adCount": 46
+  },
+  {
+    "id": 2834,
+    "name": "Bilhuset Elmer A/S",
+    "address": "Aakirkebyvej 51",
+    "zipAndCity": "3700 Rønne",
+    "website": "https://www.bilhusetelmer.dk",
+    "phone": "56931812",
+    "adCount": 15
+  },
+  {
+    "id": 5828,
+    "name": "Bakke Biler A/S",
+    "address": "Hirsevej 7",
+    "zipAndCity": "6100 Haderslev",
+    "website": "https://www.bakkebiler.dk",
+    "phone": "74529800",
+    "adCount": 32
+  },
+  {
+    "id": 699,
+    "name": "AutoAars A/S",
+    "address": "Industrivej 7",
+    "zipAndCity": "9600 Aars",
+    "website": "https://autoaars.dk",
+    "phone": "96377127",
+    "adCount": 24
+  },
+  {
+    "id": 7227,
+    "name": "Andersen Biler",
+    "address": "Leasing Gladsaxe Møllevej 14",
+    "zipAndCity": "2860 Søborg",
+    "website": "https://andersenleasing.dk",
+    "phone": "88811913",
+    "adCount": 4
+  },
+  {
+    "id": 4369,
+    "name": "Virum Motor Co A/S",
+    "address": "Grønnevej 134",
+    "zipAndCity": "2830 Virum",
+    "website": "https://www.virum-motor.dk",
+    "phone": "45851851",
+    "adCount": 19
+  },
+  {
+    "id": 7197,
+    "name": "Villy Veirup A/S - Skoda",
+    "address": "Industrivej 1",
+    "zipAndCity": "6760 Ribe",
+    "website": "https://www.skoda-ribe.dk",
+    "phone": "75420600",
+    "adCount": 20
+  },
+  {
+    "id": 412,
+    "name": "Andersen Biler",
+    "address": "Energivej 2",
+    "zipAndCity": "2750 Ballerup",
+    "website": "https://www.andersenbiler.dk",
+    "phone": "70887753",
+    "adCount": 26
+  },
+  {
+    "id": 526,
+    "name": "Bilforum Herning A/S",
+    "address": "Enggårdvej 5",
+    "zipAndCity": "7400 Herning",
+    "website": "https://www.bilforum-herning.dk",
+    "phone": "97161255",
+    "adCount": 11
+  },
+  {
+    "id": 7384,
+    "name": "Skoda Svendborg",
+    "address": "Englandsvej 1",
+    "zipAndCity": "5700 Svendborg",
+    "website": "https://www.skoda-svendborg.dk",
+    "phone": "62221505",
+    "adCount": 8
+  },
+  {
+    "id": 3892,
+    "name": "Andersen Biler",
+    "address": "Københavnsvej 154",
+    "zipAndCity": "4000 Roskilde",
+    "website": "https://www.andersenbiler.dk",
+    "phone": "70887683",
+    "adCount": 55
+  },
+  {
+    "id": 4075,
+    "name": "ABS-Auto A/S",
+    "address": "Frederikshavnsvej 256",
+    "zipAndCity": "9800 Hjørring",
+    "website": "https://abs-auto.dk",
+    "phone": "96679540",
+    "adCount": 23
+  },
+  {
+    "id": 4383,
+    "name": "Skoda Holstebro",
+    "address": "Nybovej 25",
+    "zipAndCity": "7500 Holstebro",
+    "website": "https://www.skoda-holstebro.dk",
+    "phone": "97414500",
+    "adCount": 18
+  },
+  {
+    "id": 7655,
+    "name": "Porsche Center Aarhus",
+    "address": "Grenåvej 347",
+    "zipAndCity": "8240 Risskov",
+    "website": "https://www.porsche.dk/Find-Porsche-Center/Aarhus/#",
+    "phone": "96911911",
+    "adCount": 54
+  },
+  {
+    "id": 401,
+    "name": "SKODA Brøndby - Bjørn Canings Eftf. A/S",
+    "address": "Skoda - Vallensbækvej 5-11",
+    "zipAndCity": "2605 Brøndby",
+    "website": "https://www.skoda-brondby.dk",
+    "phone": "43293370",
+    "adCount": 81
+  },
+  {
+    "id": 2725,
+    "name": "Semler Mobility Aalborg A/S",
+    "address": "Ny Kærvej 47",
+    "zipAndCity": "9000 Aalborg",
+    "website": "https://www.skoda-aalborg.dk",
+    "phone": "43223400",
+    "adCount": 45
+  },
+  {
+    "id": 4268,
+    "name": "Semler Mobility Odense A/S",
+    "address": "Middelfartvej 50",
+    "zipAndCity": "5200 Odense V",
+    "website": "https://www.skoda-odense.dk",
+    "phone": "63118500",
+    "adCount": 60
+  },
+  {
+    "id": 3008,
+    "name": "Semler Mobility Køge A/S",
+    "address": "Tangmosevej 110",
+    "zipAndCity": "4600 Køge",
+    "website": "https://www.skoda-koege.dk",
+    "phone": "56652001",
+    "adCount": 20
+  },
+  {
+    "id": 2837,
+    "name": "Roskilde Bilcenter A/S",
+    "address": "Københavnsvej 190",
+    "zipAndCity": "4000 Roskilde",
+    "website": "https://www.skoda-roskilde.dk",
+    "phone": "46757871",
+    "adCount": 3
+  },
+  {
+    "id": 7083,
+    "name": "Nottelmanns Autohandel ApS",
+    "address": "Klintevej 1",
+    "zipAndCity": "6100 Haderslev",
+    "website": "http://www.nottelmannsautohandel.dk",
+    "phone": "74529977",
+    "adCount": 69
+  },
+  {
+    "id": 682,
+    "name": "Næstved Autocenter A/S",
+    "address": "Bassinbuen 24",
+    "zipAndCity": "4700 Næstved",
+    "website": "https://www.skoda-naestved.dk",
+    "phone": "55721488",
+    "adCount": 23
+  },
+  {
+    "id": 371,
+    "name": "Midtgaard's Automobiler A/S",
+    "address": "Måløv Byvej 25",
+    "zipAndCity": "2750 Ballerup",
+    "website": "https://www.skoda-ballerup.dk",
+    "phone": "",
+    "adCount": 7
+  },
+  {
+    "id": 7659,
+    "name": "Semler Mobility København A/S",
+    "address": "Banevingen 9",
+    "zipAndCity": "2200 København N",
+    "website": "https://www.skoda-kbhn.dk",
+    "phone": "70701999",
+    "adCount": 27
+  },
+  {
+    "id": 3011,
+    "name": "Semler Mobility Amager A/S",
+    "address": "Englandsvej 437",
+    "zipAndCity": "2770 Kastrup",
+    "website": "https://www.skoda-amager.dk",
+    "phone": "32479000",
+    "adCount": 42
+  },
+  {
+    "id": 113,
+    "name": "LD Auto ApS",
+    "address": "Uglevej 1",
+    "zipAndCity": "7700 Thisted",
+    "website": "https://www.skoda-thisted.dk",
+    "phone": "97925038",
+    "adCount": 13
+  },
+  {
+    "id": 673,
+    "name": "Hansen Biler A/S",
+    "address": "Slagelsevej 162",
+    "zipAndCity": "4400 Kalundborg",
+    "website": "https://www.hansen-biler.dk",
+    "phone": "59566960",
+    "adCount": 35
+  },
+  {
+    "id": 603,
+    "name": "Fredericia Auto-Service A/S",
+    "address": "Vesterballevej 9",
+    "zipAndCity": "7000 Fredericia",
+    "website": "https://www.skoda-fredericia.dk",
+    "phone": "75924244",
+    "adCount": 50
+  },
+  {
+    "id": 59,
+    "name": "Carsten Jensen Biler APS",
+    "address": "Kværnvej 7",
+    "zipAndCity": "4760 Vordingborg",
+    "website": "https://www.carsten-jensen-biler.dk",
+    "phone": "55360600",
+    "adCount": 36
+  },
+  {
+    "id": 3888,
+    "name": "Lumbye",
+    "address": "Ndr. Ringvej 1",
+    "zipAndCity": "4800 Nykøbing F",
+    "website": "https://www.lumbye-biler.dk",
+    "phone": "54853777",
+    "adCount": 22
+  },
+  {
+    "id": 325,
+    "name": "Leif Jørgensen Automobiler A/S",
+    "address": "Industrivej 27",
+    "zipAndCity": "6240 Løgumkloster",
+    "website": "https://leif-biler.dk",
+    "phone": "74743786",
+    "adCount": 70
+  },
+  {
+    "id": 42,
+    "name": "Brdr.Schmidt",
+    "address": "Langebro 15",
+    "zipAndCity": "6200 Aabenraa",
+    "website": "https://www.skoda-aabenraa.dk",
+    "phone": "74633636",
+    "adCount": 13
+  },
+  {
+    "id": 4265,
+    "name": "Auto Group Nordvest A/S",
+    "address": "Hvidkildevej 5",
+    "zipAndCity": "7400 Herning",
+    "website": "https://www.skoda-herning.dk",
+    "phone": "72112712",
+    "adCount": 7
+  },
+  {
+    "id": 4263,
+    "name": "Autocentralen Skoda Esbjerg",
+    "address": "Skagerrakvej 4",
+    "zipAndCity": "6715 Esbjerg N",
+    "website": "https://www.skoda-esbjerg.dk",
+    "phone": "76147474",
+    "adCount": 37
+  },
+  {
+    "id": 2472,
+    "name": "Stabil Service ApS",
+    "address": "Industriarealet 63",
+    "zipAndCity": "6990 Ulfborg",
+    "website": null,
+    "phone": "",
+    "adCount": 19
+  },
+  {
+    "id": 5739,
+    "name": "Uggerhøj Brønderslev",
+    "address": "Østergade 64",
+    "zipAndCity": "9700 Brønderslev",
+    "website": "https://www.uggerhoej.dk",
+    "phone": "98821200",
+    "adCount": 27
+  },
+  {
+    "id": 643,
+    "name": "Storgaard Biler A/S",
+    "address": "Ribevej 1",
+    "zipAndCity": "6740 Bramming",
+    "website": "https://storgaardbiler.dk",
+    "phone": "75173622",
+    "adCount": 58
+  },
+  {
+    "id": 7221,
+    "name": "Seat Holstebro",
+    "address": "Nybovej 27",
+    "zipAndCity": "7500 Holstebro",
+    "website": "https://www.seat-holstebro.dk",
+    "phone": "97422922",
+    "adCount": 5
+  },
+  {
+    "id": 914,
+    "name": "SEAT Brøndby - Bjørn Canings Eftf. A/S",
+    "address": "Seat - Vallensbækvej 5-11",
+    "zipAndCity": "2605 Brøndby",
+    "website": "https://www.seat-brondby.dk",
+    "phone": "43293370",
+    "adCount": 26
+  },
+  {
+    "id": 3923,
+    "name": "Ove Christiansen Biler ApS",
+    "address": "Søndervang 39",
+    "zipAndCity": "6780 Skærbæk",
+    "website": "https://www.ocbiler.dk",
+    "phone": "74752928",
+    "adCount": 16
+  },
+  {
+    "id": 5545,
+    "name": "Ole Winther Auto A/S",
+    "address": "Høegh Guldbergs Gade 38",
+    "zipAndCity": "8700 Horsens",
+    "website": "https://olewinther.dk",
+    "phone": "27872520",
+    "adCount": 22
+  },
+  {
+    "id": 4264,
+    "name": "Semler Mobility Holbæk A/S",
+    "address": "Bilbyen 1",
+    "zipAndCity": "4300 Holbæk",
+    "website": "https://www.seat-holbaek.dk",
+    "phone": "59432000",
+    "adCount": 18
+  },
+  {
+    "id": 4267,
+    "name": "Semler Mobility Højbjerg A/S",
+    "address": "Øster Parkvej 12",
+    "zipAndCity": "8270 Højbjerg",
+    "website": "https://www.skoda-hoejbjerg.dk",
+    "phone": "87380380",
+    "adCount": 20
+  },
+  {
+    "id": 7661,
+    "name": "SEAT København",
+    "address": "Banevingen 9",
+    "zipAndCity": "2200 København N",
+    "website": "https://www.seat-kbh.dk",
+    "phone": "70701999",
+    "adCount": 67
+  },
+  {
+    "id": 5896,
+    "name": "OH Automobiler A/S",
+    "address": "Østergade 57-59",
+    "zipAndCity": "6230 Rødekro",
+    "website": "http://www.oh-automobiler.dk",
+    "phone": "74661405",
+    "adCount": 68
+  },
+  {
+    "id": 5008,
+    "name": "Martin Iversen ApS",
+    "address": "Alsgade 60",
+    "zipAndCity": "6400 Sønderborg",
+    "website": "https://martiniversen.dk",
+    "phone": "40204276",
+    "adCount": 15
+  },
+  {
+    "id": 283,
+    "name": "Leif Nielsen Jensen A/S",
+    "address": "Køgevej 16",
+    "zipAndCity": "4700 Næstved",
+    "website": "https://www.leifnielsenjensen.dk",
+    "phone": "55723113",
+    "adCount": 75
+  },
+  {
+    "id": 150,
+    "name": "Georg Ejlersen og Søn A/S",
+    "address": "Pedersborg Torv 9",
+    "zipAndCity": "4180 Sorø",
+    "website": "https://www.carpeople.dk",
+    "phone": "57830415",
+    "adCount": 27
+  },
+  {
+    "id": 506,
+    "name": "Dalsgaard Biler A/S",
+    "address": "Frederikshavnsvej 255",
+    "zipAndCity": "9800 Hjørring",
+    "website": "https://www.skoda-hjoerring.dk",
+    "phone": "98923299",
+    "adCount": 15
+  },
+  {
+    "id": 341,
+    "name": "Auto-House Køge A/S",
+    "address": "Høgevej 4",
+    "zipAndCity": "4600 Køge",
+    "website": "https://www.auto-house.dk",
+    "phone": "56633244",
+    "adCount": 89
+  },
+  {
+    "id": 137,
+    "name": "Autohuset Kronsbjerg A/S - Svendborg",
+    "address": "Grønnemosevej 11",
+    "zipAndCity": "5700 Svendborg",
+    "website": "https://www.kronsbjerg.dk",
+    "phone": "66125122",
+    "adCount": 13
+  },
+  {
+    "id": 2742,
+    "name": "Bilco A/S",
+    "address": "Grenåvej 36",
+    "zipAndCity": "8960 Randers SØ",
+    "website": "https://www.bilco.dk",
+    "phone": "88332000",
+    "adCount": 46
+  },
+  {
+    "id": 255,
+    "name": "Autohuset Kronsbjerg A/S - Odense NV",
+    "address": "Tarup Engvej 5",
+    "zipAndCity": "5210 Odense NV",
+    "website": "https://www.kronsbjerg.dk",
+    "phone": "66125122",
+    "adCount": 29
+  },
+  {
+    "id": 431,
+    "name": "Autocentralen.com A/S",
+    "address": "Egtved Alle 1",
+    "zipAndCity": "6000 Kolding",
+    "website": "https://www.autocentralen.com",
+    "phone": "75501200",
+    "adCount": 114
+  },
+  {
+    "id": 2840,
+    "name": "Via Biler A/S",
+    "address": "Toyota - Grenåvej 465",
+    "zipAndCity": "8250 Egå",
+    "website": "https://www.viabiler.dk",
+    "phone": "87471200",
+    "adCount": 107
+  },
+  {
+    "id": 2358,
+    "name": "Via Biler A/S",
+    "address": "Toyota - Englandsvej 395",
+    "zipAndCity": "2770 Kastrup",
+    "website": "https://www.viabiler.dk",
+    "phone": "32468000",
+    "adCount": 32
+  },
+  {
+    "id": 2836,
+    "name": "Via Biler A/S",
+    "address": "Toyota - Christian X's Vej 203",
+    "zipAndCity": "8270 Højbjerg",
+    "website": "https://www.viabiler.dk",
+    "phone": "",
+    "adCount": 60
+  },
+  {
+    "id": 2908,
+    "name": "Toyota Varde Louis Lund A/S",
+    "address": "Jeppe Skovgaardsvej 21",
+    "zipAndCity": "6800 Varde",
+    "website": "https://www.louis-lund.dk",
+    "phone": "78771010",
+    "adCount": 29
+  },
+  {
+    "id": 4318,
+    "name": "Toyota Nørresundby | SDKBiler",
+    "address": "Sundsholmen 13",
+    "zipAndCity": "9400 Nørresundby",
+    "website": "https://www.sdkbiler.dk",
+    "phone": "99303651",
+    "adCount": 21
+  },
+  {
+    "id": 2645,
+    "name": "Toyota Esbjerg Louis Lund A/S",
+    "address": "Hededammen 2",
+    "zipAndCity": "6705 Esbjerg Ø",
+    "website": "https://www.louis-lund.dk",
+    "phone": "78771007",
+    "adCount": 37
+  },
+  {
+    "id": 2643,
+    "name": "Toyota Vejen Louis Lund A/S",
+    "address": "Vestermarksvej 5",
+    "zipAndCity": "6600 Vejen",
+    "website": "https://www.louis-lund.dk",
+    "phone": "78771006",
+    "adCount": 29
+  },
+  {
+    "id": 4186,
+    "name": "Toyota Aalborg | SDKBiler",
+    "address": "Fredrikstadvej 7",
+    "zipAndCity": "9200 Aalborg SV",
+    "website": "https://www.sdkbiler.dk",
+    "phone": "98183600",
+    "adCount": 28
+  },
+  {
+    "id": 369,
+    "name": "Via Biler A/S",
+    "address": "Toyota - Vibeholmsvej 26",
+    "zipAndCity": "2605 Brøndby",
+    "website": "https://www.viabiler.dk",
+    "phone": "43209000",
+    "adCount": 52
+  },
+  {
+    "id": 812,
+    "name": "Via Biler A/S",
+    "address": "Toyota - Gl. Køge Landevej 127",
+    "zipAndCity": "2500 Valby",
+    "website": "https://www.viabiler.dk",
+    "phone": "36197000",
+    "adCount": 42
+  },
+  {
+    "id": 2853,
+    "name": "Toyota - Frimann Biler A/S",
+    "address": "Energivej 2",
+    "zipAndCity": "4800 Nykøbing F",
+    "website": "https://www.frimannbiler.dk",
+    "phone": "70887971",
+    "adCount": 17
+  },
+  {
+    "id": 2642,
+    "name": "Toyota Ribe Louis Lund A/S",
+    "address": "Industrivej 36",
+    "zipAndCity": "6760 Ribe",
+    "website": "https://www.louis-lund.dk",
+    "phone": "78771005",
+    "adCount": 76
+  },
+  {
+    "id": 5590,
+    "name": "STS Biler A/S",
+    "address": "Viborgvej 1",
+    "zipAndCity": "7800 Skive",
+    "website": "https://www.stsbiler.dk",
+    "phone": "70107080",
+    "adCount": 13
+  },
+  {
+    "id": 4203,
+    "name": "STS Biler A/S",
+    "address": "Allingevej 1",
+    "zipAndCity": "7400 Herning",
+    "website": "https://www.stsbiler.dk",
+    "phone": "70107080",
+    "adCount": 36
+  },
+  {
+    "id": 3805,
+    "name": "STS Biler A/S",
+    "address": "Bastrupgårdvej 1-3",
+    "zipAndCity": "7500 Holstebro",
+    "website": "https://www.stsbiler.dk",
+    "phone": "70107080",
+    "adCount": 50
+  },
+  {
+    "id": 4202,
+    "name": "STS Biler A/S",
+    "address": "Siriusvej 5",
+    "zipAndCity": "7430 Ikast",
+    "website": "https://www.stsbiler.dk",
+    "phone": "70107080",
+    "adCount": 12
+  },
+  {
+    "id": 269,
+    "name": "Probiler A/S",
+    "address": "Ballevej 12",
+    "zipAndCity": "8300 Odder",
+    "website": "https://www.probiler-odder.dk",
+    "phone": "86543000",
+    "adCount": 18
+  },
+  {
+    "id": 5081,
+    "name": "Terminalen Roskildevej",
+    "address": "Roskildevej 323",
+    "zipAndCity": "2630 Taastrup",
+    "website": "https://www.terminalen.dk",
+    "phone": "42142213",
+    "adCount": 51
+  },
+  {
+    "id": 4201,
+    "name": "STS Biler A/S",
+    "address": "Industrivej 47",
+    "zipAndCity": "7620 Lemvig",
+    "website": "https://www.stsbiler.dk",
+    "phone": "70107080",
+    "adCount": 28
+  },
+  {
+    "id": 633,
+    "name": "NOVABIL A/S",
+    "address": "Markedsvej 127",
+    "zipAndCity": "9700 Brønderslev",
+    "website": "https://www.novabil.dk",
+    "phone": "51674614",
+    "adCount": 54
+  },
+  {
+    "id": 4185,
+    "name": "Niels & Morten Petersen A/S",
+    "address": "Tangmosevej 106",
+    "zipAndCity": "4600 Køge",
+    "website": "https://www.toyota-koege.dk",
+    "phone": "56670104",
+    "adCount": 47
+  },
+  {
+    "id": 5707,
+    "name": "MTH Biler A/S",
+    "address": "Hjortkjærsvej 12",
+    "zipAndCity": "9600 Aars",
+    "website": "https://www.mthbiler.dk",
+    "phone": "41379310",
+    "adCount": 18
+  },
+  {
+    "id": 5705,
+    "name": "MTH Biler A/S",
+    "address": "Aalborgvej 1",
+    "zipAndCity": "9670 Løgstør",
+    "website": "https://www.mthbiler.dk",
+    "phone": "98671655",
+    "adCount": 22
+  },
+  {
+    "id": 4294,
+    "name": "NOVABIL A/S",
+    "address": "Maigårdsvej 7",
+    "zipAndCity": "9900 Frederikshavn",
+    "website": "https://www.novabil.dk",
+    "phone": "51674640",
+    "adCount": 29
+  },
+  {
+    "id": 488,
+    "name": "Niels H. Ebdrup Automobiler A/S",
+    "address": "Tåstruphøj 1",
+    "zipAndCity": "4300 Holbæk",
+    "website": "https://www.nhebiler.dk",
+    "phone": "59436330",
+    "adCount": 25
+  },
+  {
+    "id": 5706,
+    "name": "MTH Biler A/S",
+    "address": "Aalborgvej 38",
+    "zipAndCity": "9460 Brovst",
+    "website": "https://www.mthbiler.dk",
+    "phone": "96441635",
+    "adCount": 21
+  },
+  {
+    "id": 504,
+    "name": "NOVABIL A/S",
+    "address": "A.F.Heidemannsvej 2",
+    "zipAndCity": "9800 Hjørring",
+    "website": "https://www.novabil.dk",
+    "phone": "51674630",
+    "adCount": 25
+  },
+  {
+    "id": 37,
+    "name": "Midtbornholms Auto",
+    "address": "Brovangen 20",
+    "zipAndCity": "3720 Aakirkeby",
+    "website": "https://www.toyota-bornholm.dk",
+    "phone": "56975605",
+    "adCount": 43
+  },
+  {
+    "id": 2938,
+    "name": "MTH Biler A/S",
+    "address": "Silstrupvej 1",
+    "zipAndCity": "7700 Thisted",
+    "website": "https://www.mthbiler.dk",
+    "phone": "96178900",
+    "adCount": 32
+  },
+  {
+    "id": 296,
+    "name": "MTH Biler A/S",
+    "address": "Fruevej 30",
+    "zipAndCity": "7900 Nykøbing M",
+    "website": "https://www.mthbiler.dk",
+    "phone": "97721144",
+    "adCount": 30
+  },
+  {
+    "id": 2595,
+    "name": "Krogsgaard-Jensen Automobiler A/S",
+    "address": "Islevdalvej 93",
+    "zipAndCity": "2610 Rødovre",
+    "website": "https://www.krogsgaard-biler.dk",
+    "phone": "70102110",
+    "adCount": 40
+  },
+  {
+    "id": 556,
+    "name": "M.J.Autoservice A/S",
+    "address": "Bygmestervej 3",
+    "zipAndCity": "9560 Hadsund",
+    "website": "https://www.toyota-hadsund.dk",
+    "phone": "98574200",
+    "adCount": 8
+  },
+  {
+    "id": 2452,
+    "name": "Krogsgaard-Jensen Automobiler A/S",
+    "address": "Frederiksborgvej 27",
+    "zipAndCity": "3520 Farum",
+    "website": "https://www.krogsgaard-biler.dk",
+    "phone": "70102110",
+    "adCount": 25
+  },
+  {
+    "id": 377,
+    "name": "Krogsgaard-Jensen Automobiler A/S",
+    "address": "Brogaardsvej 44",
+    "zipAndCity": "2820 Gentofte",
+    "website": "https://www.krogsgaard-biler.dk",
+    "phone": "70102110",
+    "adCount": 24
+  },
+  {
+    "id": 646,
+    "name": "Lihn & Boi A/S",
+    "address": "Løvskal Landevej 39",
+    "zipAndCity": "8850 Bjerringbro",
+    "website": "https://www.lihnogboi.dk",
+    "phone": "86686322",
+    "adCount": 11
+  },
+  {
+    "id": 4735,
+    "name": "Krogsgaard-Jensen Automobiler A/S",
+    "address": "Tagensvej 148",
+    "zipAndCity": "2200 København N",
+    "website": "https://www.krogsgaard-biler.dk",
+    "phone": "70102110",
+    "adCount": 28
+  },
+  {
+    "id": 4976,
+    "name": "ERA BILER A/S",
+    "address": "Gefionsvej 10",
+    "zipAndCity": "3400 Hillerød",
+    "website": "https://www.erabiler.dk",
+    "phone": "48299500",
+    "adCount": 29
+  },
+  {
+    "id": 949,
+    "name": "Lihn & Boi A/S",
+    "address": "Thurøvej 5",
+    "zipAndCity": "9500 Hobro",
+    "website": "https://www.lihnogboi.dk",
+    "phone": "96572500",
+    "adCount": 13
+  },
+  {
+    "id": 4974,
+    "name": "ERA BILER A/S",
+    "address": "Pedersholmparken 4",
+    "zipAndCity": "3600 Frederikssund",
+    "website": "https://www.erabiler.dk",
+    "phone": "47315900",
+    "adCount": 9
+  },
+  {
+    "id": 2750,
+    "name": "Børge Pedersen Automobiler A/S",
+    "address": "Marinebuen 1B",
+    "zipAndCity": "4700 Næstved",
+    "website": "https://www.bpabiler.dk",
+    "phone": "55750700",
+    "adCount": 22
+  },
+  {
+    "id": 323,
+    "name": "Frimann Biler A/S - Maribo",
+    "address": "C.E. Christiansens Vej 45",
+    "zipAndCity": "4930 Maribo",
+    "website": "https://www.frimannbiler.dk",
+    "phone": "70887919",
+    "adCount": 29
+  },
+  {
+    "id": 4975,
+    "name": "ERA BILER A/S",
+    "address": "Rundinsvej 39",
+    "zipAndCity": "3200 Helsinge",
+    "website": "https://www.erabiler.dk",
+    "phone": "48795220",
+    "adCount": 19
+  },
+  {
+    "id": 672,
+    "name": "Bilbutikken A/S",
+    "address": "Trekanten 20",
+    "zipAndCity": "8500 Grenaa",
+    "website": "https://bilbutikken.nu",
+    "phone": "86327900",
+    "adCount": 24
+  },
+  {
+    "id": 4188,
+    "name": "Bil & Co A/S",
+    "address": "Flensborgvej 174",
+    "zipAndCity": "6200 Aabenraa",
+    "website": "https://www.bilogco.dk",
+    "phone": "74533000",
+    "adCount": 31
+  },
+  {
+    "id": 225,
+    "name": "Børge Pedersen Automobiler A/S",
+    "address": "Frejasvej 37",
+    "zipAndCity": "4100 Ringsted",
+    "website": "https://www.bpabiler.dk",
+    "phone": "57616465",
+    "adCount": 17
+  },
+  {
+    "id": 3389,
+    "name": "Bilbutikken A/S",
+    "address": "Kristrupvej 168",
+    "zipAndCity": "8900 Randers C",
+    "website": "https://bilbutikken.nu",
+    "phone": "40887900",
+    "adCount": 30
+  },
+  {
+    "id": 4187,
+    "name": "Bil & Co A/S",
+    "address": "Chr. x's vej 1C",
+    "zipAndCity": "6100 Haderslev",
+    "website": "https://www.bilogco.dk",
+    "phone": "",
+    "adCount": 31
+  },
+  {
+    "id": 4189,
+    "name": "Bil & Co A/S",
+    "address": "Nørrekobbel 5",
+    "zipAndCity": "6400 Sønderborg",
+    "website": "https://www.bilogco.dk",
+    "phone": "74533000",
+    "adCount": 22
+  },
+  {
+    "id": 236,
+    "name": "Autoforum Ringkøbing A/S",
+    "address": "Sjællandsgade 3",
+    "zipAndCity": "6950 Ringkøbing",
+    "website": "https://www.autoforum.dk/toyota",
+    "phone": "97324222",
+    "adCount": 25
+  },
+  {
+    "id": 4205,
+    "name": "Autohallen A/S",
+    "address": "Trafikcenter Alle 1",
+    "zipAndCity": "4200 Slagelse",
+    "website": "https://www.autohallen.net",
+    "phone": "58581920",
+    "adCount": 24
+  },
+  {
+    "id": 352,
+    "name": "Arne Stubbe Automobiler A/S",
+    "address": "Måløv Byvej 7",
+    "zipAndCity": "2750 Ballerup",
+    "website": "https://www.stubbe.dk",
+    "phone": "44972170",
+    "adCount": 23
+  },
+  {
+    "id": 4206,
+    "name": "Autohallen A/S",
+    "address": "Slagelsevej 242",
+    "zipAndCity": "4400 Kalundborg",
+    "website": "https://www.autohallen.net",
+    "phone": "59510982",
+    "adCount": 12
+  },
+  {
+    "id": 4183,
+    "name": "Bil & Co A/S",
+    "address": "Ambolten 5",
+    "zipAndCity": "6000 Kolding",
+    "website": "https://www.bilogco.dk",
+    "phone": "74533000",
+    "adCount": 37
+  },
+  {
+    "id": 2373,
+    "name": "Arne Stubbe Automobiler A/S",
+    "address": "Betonvej 2",
+    "zipAndCity": "4000 Roskilde",
+    "website": "https://www.stubbe.dk",
+    "phone": "46330400",
+    "adCount": 17
+  },
+  {
+    "id": 4141,
+    "name": "ATbiler A/S",
+    "address": "Tykhøjetvej 2",
+    "zipAndCity": "7323 Give",
+    "website": "https://www.atbiler.dk",
+    "phone": "75731800",
+    "adCount": 33
+  },
+  {
+    "id": 4343,
+    "name": "A/S Mogens Frederiksen Automobiler",
+    "address": "Christmas Møllersvej 4",
+    "zipAndCity": "5200 Odense V",
+    "website": "https://www.mfabiler.dk",
+    "phone": "66115555",
+    "adCount": 13
+  },
+  {
+    "id": 3875,
+    "name": "A/S Mogens Frederiksen Automobiler",
+    "address": "Odensevej 56",
+    "zipAndCity": "5700 Svendborg",
+    "website": "https://www.mfabiler.dk",
+    "phone": "62212004",
+    "adCount": 15
+  },
+  {
+    "id": 4344,
+    "name": "A/S Mogens Frederiksen Automobiler",
+    "address": "Vestergade 39",
+    "zipAndCity": "5800 Nyborg",
+    "website": "https://www.mfabiler.dk",
+    "phone": "65312707",
+    "adCount": 10
+  },
+  {
+    "id": 260,
+    "name": "A/S Mogens Frederiksen Automobiler",
+    "address": "Stærmosegårdsvej 54",
+    "zipAndCity": "5230 Odense M",
+    "website": "https://www.mfabiler.dk",
+    "phone": "66156001",
+    "adCount": 36
+  },
+  {
+    "id": 362,
+    "name": "Rafn-Larsen Automobiler A/S",
+    "address": "Energivej 16",
+    "zipAndCity": "2750 Ballerup",
+    "website": "https://www.rafn-larsen.dk",
+    "phone": "44771500",
+    "adCount": 14
+  },
+  {
+    "id": 57,
+    "name": "Leif Pedersen Biler A/S",
+    "address": "Næstvedvej 70",
+    "zipAndCity": "4760 Vordingborg",
+    "website": "https://www.leifpedersenbiler.dk",
+    "phone": "55372642",
+    "adCount": 7
+  },
+  {
+    "id": 2600,
+    "name": "Kaj Christensen Automobiler A/S",
+    "address": "Hobrovej 804",
+    "zipAndCity": "9230 Svenstrup J",
+    "website": "https://kaj-christensen.dk",
+    "phone": "98381444",
+    "adCount": 18
+  },
+  {
+    "id": 5639,
+    "name": "Lysen Biler Næstved",
+    "address": "Holsted Park 16",
+    "zipAndCity": "4700 Næstved",
+    "website": "https://lysenbiler.dk",
+    "phone": "57873110",
+    "adCount": 22
+  },
+  {
+    "id": 4902,
+    "name": "Bil-Centrum Schou-Jensen A/S",
+    "address": "Nørre Lindvej 1-3",
+    "zipAndCity": "7400 Herning",
+    "website": "http://www.bilcentrum.dk",
+    "phone": "97210200",
+    "adCount": 45
+  },
+  {
+    "id": 5658,
+    "name": "Mogens Schelde Hansen",
+    "address": "Industrivej 2",
+    "zipAndCity": "6630 Rødding",
+    "website": "https://www.mogensscheldehansen.dk",
+    "phone": "74841200",
+    "adCount": 46
+  },
+  {
+    "id": 4060,
+    "name": "Bang Biler A/S",
+    "address": "Krakasvej 11B",
+    "zipAndCity": "3400 Hillerød",
+    "website": "https://www.bangbiler.dk",
+    "phone": "48186160",
+    "adCount": 3
+  },
+  {
+    "id": 5642,
+    "name": "Lysen Biler Sorø",
+    "address": "Nordmarksvej 2",
+    "zipAndCity": "4180 Sorø",
+    "website": "https://lysenbiler.dk",
+    "phone": "57873100",
+    "adCount": 73
+  },
+  {
+    "id": 4871,
+    "name": "Nellemann Leasing A/S",
+    "address": "Lyskær 7",
+    "zipAndCity": "2730 Herlev",
+    "website": "https://nellemannleasing.dk",
+    "phone": "70886127",
+    "adCount": 34
+  },
+  {
+    "id": 4899,
+    "name": "Clausen & Larsen I/S",
+    "address": "Industrivej 12",
+    "zipAndCity": "4990 Sakskøbing",
+    "website": "https://www.clausenoglarsen.dk",
+    "phone": "54704114",
+    "adCount": 22
+  },
+  {
+    "id": 2514,
+    "name": "Halkjærs Auto A/S",
+    "address": "Limfjordsvej 44",
+    "zipAndCity": "7900 Nykøbing M",
+    "website": "https://www.halkjaersauto.dk",
+    "phone": "97722532",
+    "adCount": 10
+  },
+  {
+    "id": 719,
+    "name": "Dahl Pedersen A/S",
+    "address": "Lundvej 1",
+    "zipAndCity": "8800 Viborg",
+    "website": "https://www.dahlpedersen.dk",
+    "phone": "88811909",
+    "adCount": 15
+  },
+  {
+    "id": 5522,
+    "name": "Bjarne Nielsen A/S",
+    "address": "Tangmosevej 108",
+    "zipAndCity": "4600 Køge",
+    "website": "https://www.bn.dk",
+    "phone": "70887109",
+    "adCount": 203
+  },
+  {
+    "id": 5517,
+    "name": "Bjarne Nielsen A/S",
+    "address": "Silkeborgvej 110",
+    "zipAndCity": "7400 Herning",
+    "website": "https://www.bn.dk",
+    "phone": "78771003",
+    "adCount": 146
+  },
+  {
+    "id": 5513,
+    "name": "Bjarne Nielsen A/S",
+    "address": "Storegade 246",
+    "zipAndCity": "6705 Esbjerg Ø",
+    "website": "https://www.bn.dk",
+    "phone": "78771002",
+    "adCount": 81
+  },
+  {
+    "id": 5945,
+    "name": "Autohuset Vestergaard A/S Hillerød",
+    "address": "Rønnekrogen 1",
+    "zipAndCity": "3400 Hillerød",
+    "website": "https://www.autohuset-vestergaard.dk",
+    "phone": "48134343",
+    "adCount": 62
+  },
+  {
+    "id": 5096,
+    "name": "Autohuset Vestergaard A/S",
+    "address": "Bondovej 18",
+    "zipAndCity": "5250 Odense SV",
+    "website": "https://www.autohuset-vestergaard.dk",
+    "phone": "63171311",
+    "adCount": 67
+  },
+  {
+    "id": 729,
+    "name": "Auto Lindvang",
+    "address": "Ellegårdvej 5",
+    "zipAndCity": "6400 Sønderborg",
+    "website": "https://www.lindvang.dk",
+    "phone": "74425155",
+    "adCount": 39
+  },
+  {
+    "id": 683,
+    "name": "Auto Lindvang",
+    "address": "Langrode 25",
+    "zipAndCity": "6200 Aabenraa",
+    "website": "https://www.lindvang.dk",
+    "phone": "74621333",
+    "adCount": 33
+  },
+  {
+    "id": 5093,
+    "name": "Autohuset Vestergaard A/S",
+    "address": "Løversysselvej 9",
+    "zipAndCity": "7100 Vejle",
+    "website": "https://www.autohuset-vestergaard.dk",
+    "phone": "70270500",
+    "adCount": 78
+  },
+  {
+    "id": 4342,
+    "name": "Bin2Bil A/S",
+    "address": "Bilbyen 2",
+    "zipAndCity": "4300 Holbæk",
+    "website": "https://www.bin2bil.dk",
+    "phone": "59431101",
+    "adCount": 166
+  },
+  {
+    "id": 5102,
+    "name": "Autohuset Vestergaard A/S",
+    "address": "Nærum Hovedgade 1",
+    "zipAndCity": "2850 Nærum",
+    "website": "https://www.autohuset-vestergaard.dk",
+    "phone": "72591800",
+    "adCount": 40
+  },
+  {
+    "id": 5094,
+    "name": "Autohuset Vestergaard A/S",
+    "address": "Trianglen 4",
+    "zipAndCity": "6000 Kolding",
+    "website": "https://www.autohuset-vestergaard.dk",
+    "phone": "75522555",
+    "adCount": 146
+  },
+  {
+    "id": 5109,
+    "name": "Andersen Biler",
+    "address": "Gladsaxe Møllevej 14",
+    "zipAndCity": "2860 Søborg",
+    "website": "https://www.andersenbiler.dk",
+    "phone": "70886899",
+    "adCount": 89
+  },
+  {
+    "id": 107,
+    "name": "Volkswagen Tønder",
+    "address": "Ribelandevej 55",
+    "zipAndCity": "6270 Tønder",
+    "website": "https://www.vw-tonder.dk",
+    "phone": "73722211",
+    "adCount": 87
+  },
+  {
+    "id": 4378,
+    "name": "Volkswagen Haderslev",
+    "address": "Gammel Christiansfeldvej 76",
+    "zipAndCity": "6100 Haderslev",
+    "website": "https://vw.autohuset-haderslev.dk",
+    "phone": "74524100",
+    "adCount": 43
+  },
+  {
+    "id": 24,
+    "name": "Ålestrup Autohandel Egon Hansen & Søn A/S",
+    "address": "Borgergade 37",
+    "zipAndCity": "9620 Aalestrup",
+    "website": "https://www.vw-aalestrup.dk",
+    "phone": "98641411",
+    "adCount": 22
+  },
+  {
+    "id": 132,
+    "name": "Volkswagen Svendborg",
+    "address": "Englandsvej 1",
+    "zipAndCity": "5700 Svendborg",
+    "website": "https://www.vw-svendborg.dk",
+    "phone": "62221505",
+    "adCount": 18
+  },
+  {
+    "id": 4678,
+    "name": "Sølvsten Biler A/S",
+    "address": "Lundborgvej 12",
+    "zipAndCity": "8800 Viborg",
+    "website": "https://www.soelvsten.dk",
+    "phone": "87255100",
+    "adCount": 64
+  },
+  {
+    "id": 3988,
+    "name": "Skive Biler A/S",
+    "address": "Katkjærvej 10",
+    "zipAndCity": "7800 Skive",
+    "website": "https://www.skivebiler.dk",
+    "phone": "96152313",
+    "adCount": 19
+  },
+  {
+    "id": 238,
+    "name": "Villy Veirup A/S",
+    "address": "Industrivej 1",
+    "zipAndCity": "6760 Ribe",
+    "website": "https://www.vw-ribe.dk",
+    "phone": "75420600",
+    "adCount": 67
+  },
+  {
+    "id": 5156,
+    "name": "Uggerhøj Frederikshavn",
+    "address": "Søndergade 244",
+    "zipAndCity": "9900 Frederikshavn",
+    "website": "https://www.uggerhoej.dk",
+    "phone": "98431100",
+    "adCount": 33
+  },
+  {
+    "id": 3010,
+    "name": "Semler Mobility Aalborg A/S",
+    "address": "Ny Kærvej 47",
+    "zipAndCity": "9000 Aalborg",
+    "website": "https://www.vw-aalborg.dk",
+    "phone": "43223400",
+    "adCount": 44
+  },
+  {
+    "id": 473,
+    "name": "Tang Biler A/S",
+    "address": "Nybovej 27",
+    "zipAndCity": "7500 Holstebro",
+    "website": "https://www.vw-holstebro.dk",
+    "phone": "97422922",
+    "adCount": 25
+  },
+  {
+    "id": 2998,
+    "name": "Semler Mobility Odense A/S",
+    "address": "Middelfartvej 50",
+    "zipAndCity": "5200 Odense V",
+    "website": "https://www.vw-odense.dk",
+    "phone": "63118500",
+    "adCount": 65
+  },
+  {
+    "id": 2991,
+    "name": "Semler Mobility Holbæk A/S",
+    "address": "Bilbyen 1",
+    "zipAndCity": "4300 Holbæk",
+    "website": "https://www.vw-holbaek.dk",
+    "phone": "59432000",
+    "adCount": 41
+  },
+  {
+    "id": 2993,
+    "name": "Semler Mobility Køge A/S",
+    "address": "Tangmosevej 110",
+    "zipAndCity": "4600 Køge",
+    "website": "https://www.vw-koge.dk",
+    "phone": "56652001",
+    "adCount": 39
+  },
+  {
+    "id": 7653,
+    "name": "Semler Mobility Risskov A/S",
+    "address": "Grenåvej 347",
+    "zipAndCity": "8240 Risskov",
+    "website": "https://www.vw-risskov.dk",
+    "phone": "87418500",
+    "adCount": 105
+  },
+  {
+    "id": 7652,
+    "name": "Semler Mobility Skadecenter A/S",
+    "address": "Turbinevej 7",
+    "zipAndCity": "2860 Søborg",
+    "website": "https://www.vw-gladsaxe.dk",
+    "phone": "44575757",
+    "adCount": 92
+  },
+  {
+    "id": 406,
+    "name": "Semler Mobility København A/S",
+    "address": "Banevingen 9",
+    "zipAndCity": "2200 København N",
+    "website": "https://www.vw-kbh.dk",
+    "phone": "70701999",
+    "adCount": 79
+  },
+  {
+    "id": 566,
+    "name": "René Schröter A/S",
+    "address": "Vestergade 130",
+    "zipAndCity": "7200 Grindsted",
+    "website": "https://www.vw-grindsted.dk",
+    "phone": "75321777",
+    "adCount": 12
+  },
+  {
+    "id": 3324,
+    "name": "Ove B. Dirksen A/S",
+    "address": "Dronning Sophies Allé 110",
+    "zipAndCity": "8660 Skanderborg",
+    "website": "https://www.dirksen.dk",
+    "phone": "87933394",
+    "adCount": 69
+  },
+  {
+    "id": 2997,
+    "name": "Semler Mobility Hillerød A/S",
+    "address": "Egespurs Alle 1",
+    "zipAndCity": "3400 Hillerød",
+    "website": "https://www.vw-hillerod.dk",
+    "phone": "48261115",
+    "adCount": 62
+  },
+  {
+    "id": 3000,
+    "name": "Semler Mobility Højbjerg A/S",
+    "address": "Øster Parkvej 12",
+    "zipAndCity": "8270 Højbjerg",
+    "website": "https://www.vw-hoejbjerg.dk",
+    "phone": "87380380",
+    "adCount": 49
+  },
+  {
+    "id": 2994,
+    "name": "Semler Mobility Amager A/S",
+    "address": "Englandsvej 437",
+    "zipAndCity": "2770 Kastrup",
+    "website": "https://www.vw-amager.dk",
+    "phone": "32479000",
+    "adCount": 78
+  },
+  {
+    "id": 7199,
+    "name": "Next Mobility Sønderborg A/S",
+    "address": "Ringgade 211",
+    "zipAndCity": "6400 Sønderborg",
+    "website": "https://www.vw-soenderborg.dk",
+    "phone": "74421160",
+    "adCount": 62
+  },
+  {
+    "id": 321,
+    "name": "Harly Petersen Automobiler A/S",
+    "address": "Østre Landevej 41",
+    "zipAndCity": "4930 Maribo",
+    "website": "https://www.vw-maribo.dk",
+    "phone": "25192903",
+    "adCount": 12
+  },
+  {
+    "id": 7301,
+    "name": "Autohuset Ringsted A/S",
+    "address": "Bragesvej 1",
+    "zipAndCity": "4100 Ringsted",
+    "website": null,
+    "phone": "23281048",
+    "adCount": 31
+  },
+  {
+    "id": 399,
+    "name": "Bilcentret Charlottenlund A/S",
+    "address": "Hyldegårdsvej 53",
+    "zipAndCity": "2920 Charlottenlund",
+    "website": "https://vw.bilcentret-charlottenlund.dk",
+    "phone": "39642700",
+    "adCount": 17
+  },
+  {
+    "id": 503,
+    "name": "Brødrene Møll A/S",
+    "address": "Frederikshavnsvej 23",
+    "zipAndCity": "9800 Hjørring",
+    "website": "https://www.moell.dk",
+    "phone": "98924088",
+    "adCount": 27
+  },
+  {
+    "id": 3352,
+    "name": "Autohuset Glostrup A/S",
+    "address": "Hovedvejen 193",
+    "zipAndCity": "2600 Glostrup",
+    "website": "https://www.autohuset-glostrup.dk",
+    "phone": "43261949",
+    "adCount": 32
+  },
+  {
+    "id": 4853,
+    "name": "John Andersen Biler ApS",
+    "address": "Østergade 55A",
+    "zipAndCity": "9460 Brovst",
+    "website": "https://www.johnandersenbiler.dk",
+    "phone": "98231093",
+    "adCount": 32
+  },
+  {
+    "id": 2959,
+    "name": "Autohuset Bornholm A/S",
+    "address": "Zahrtmannsvej 46",
+    "zipAndCity": "3700 Rønne",
+    "website": "https://www.vw-bornholm.dk",
+    "phone": "56930623",
+    "adCount": 0
+  },
+  {
+    "id": 1199,
+    "name": "Autohuset Hørsholm A/S",
+    "address": "Kokkedal Industripark 28",
+    "zipAndCity": "2980 Kokkedal",
+    "website": "https://www.autohuset-hoersholm.dk",
+    "phone": "45762525",
+    "adCount": 75
+  },
+  {
+    "id": 3903,
+    "name": "Autocentralen Horsens",
+    "address": "Vejlevej 1",
+    "zipAndCity": "8700 Horsens",
+    "website": "https://www.vw-horsens.dk",
+    "phone": "76282060",
+    "adCount": 56
+  },
+  {
+    "id": 424,
+    "name": "Autocentralen VW Kolding",
+    "address": "Dieselvej 2",
+    "zipAndCity": "6000 Kolding",
+    "website": "https://www.vw-kolding.dk",
+    "phone": "76345000",
+    "adCount": 48
+  },
+  {
+    "id": 5310,
+    "name": "Autocentralen Esbjerg",
+    "address": "Skagerrakvej 4",
+    "zipAndCity": "6715 Esbjerg N",
+    "website": "https://www.vw-esbjerg.dk",
+    "phone": "76147474",
+    "adCount": 56
+  },
+  {
+    "id": 2999,
+    "name": "Auto Group Nordvest P/S",
+    "address": "Tjelevej 16",
+    "zipAndCity": "7400 Herning",
+    "website": "https://www.vw-herning.dk",
+    "phone": "97268777",
+    "adCount": 20
+  },
+  {
+    "id": 605,
+    "name": "Autogaarden Fredericia A/S",
+    "address": "Egeskovvej 104",
+    "zipAndCity": "7000 Fredericia",
+    "website": "https://www.vw-fredericia.dk",
+    "phone": "76203070",
+    "adCount": 13
+  },
+  {
+    "id": 233,
+    "name": "A.V.Vejgaard AS",
+    "address": "Enghavevej 3",
+    "zipAndCity": "6950 Ringkøbing",
+    "website": "https://www.avvejgaard.dk",
+    "phone": "96742600",
+    "adCount": 40
+  },
+  {
+    "id": 4229,
+    "name": "A/S Knud Uggerhøj",
+    "address": "Søndergade 246",
+    "zipAndCity": "9900 Frederikshavn",
+    "website": "https://www.uggerhoej.dk",
+    "phone": "98421488",
+    "adCount": 47
+  },
+  {
+    "id": 4132,
+    "name": "Sjelle Autoværksted A/S",
+    "address": "Langelinie 49",
+    "zipAndCity": "8464 Galten",
+    "website": "https://sjelleauto.dk",
+    "phone": "22192119",
+    "adCount": 22
+  },
+  {
+    "id": 63,
+    "name": "Tommy Skovhus Christensen A/S",
+    "address": "Næstvedvej 64",
+    "zipAndCity": "4760 Vordingborg",
+    "website": "https://www.tsc-biler.dk",
+    "phone": "55345038",
+    "adCount": 18
+  },
+  {
+    "id": 4937,
+    "name": "Bilhuset Haldrup A/S",
+    "address": "Aarhusvej 108",
+    "zipAndCity": "8940 Randers SV",
+    "website": "https://www.bilhusethaldrup.dk",
+    "phone": "86427800",
+    "adCount": 53
+  },
+  {
+    "id": 3155,
+    "name": "Auto-Centralen Aalborg A/S",
+    "address": "Håndværkervej 10",
+    "zipAndCity": "9000 Aalborg",
+    "website": "https://www.autocentralen.dk",
+    "phone": "98102030",
+    "adCount": 28
+  },
+  {
+    "id": 5884,
+    "name": "Sondrup Bilcenter A/S",
+    "address": "Ravnsøvej 40",
+    "zipAndCity": "8240 Risskov",
+    "website": "https://www.sondrup-bilcenter.dk",
+    "phone": "86282344",
+    "adCount": 17
+  },
+  {
+    "id": 5629,
+    "name": "HJN Auto ApS",
+    "address": "Fristrupvej 17",
+    "zipAndCity": "9440 Aabybro",
+    "website": "https://www.hjnauto.dk",
+    "phone": "96961600",
+    "adCount": 28
+  },
+  {
+    "id": 4323,
+    "name": "Jes P. Jessen",
+    "address": "Gasværksvej 34",
+    "zipAndCity": "6200 Aabenraa",
+    "website": "https://jespjessen.dk",
+    "phone": "74623008",
+    "adCount": 55
+  },
+  {
+    "id": 3213,
+    "name": "Mercedes-Benz Starmark I/S",
+    "address": "Sundsholmen 10",
+    "zipAndCity": "9400 Nørresundby",
+    "website": "https://www.starmark.dk",
+    "phone": "72116000",
+    "adCount": 0
+  },
+  {
+    "id": 2859,
+    "name": "Manniche A/S",
+    "address": "Søndre Ringvej 35E",
+    "zipAndCity": "2605 Brøndby",
+    "website": "https://www.manniche.nu",
+    "phone": "70158040",
+    "adCount": 5
+  },
+  {
+    "id": 667,
+    "name": "Grome Automobiler ApS",
+    "address": "Hvedemarken 16",
+    "zipAndCity": "3520 Farum",
+    "website": "http://www.gromeautomobiler.dk",
+    "phone": "21919422",
+    "adCount": 22
+  },
+  {
+    "id": 206,
+    "name": "Autocentro A/S",
+    "address": "Færgevej 17",
+    "zipAndCity": "4970 Rødby",
+    "website": "https://www.autocentro.dk",
+    "phone": "40242015",
+    "adCount": 0
+  },
+  {
+    "id": 5547,
+    "name": "Bakke Auto A/S",
+    "address": "Kvaglundvej 90",
+    "zipAndCity": "6705 Esbjerg Ø",
+    "website": "https://www.bakkeauto.dk",
+    "phone": "75141188",
+    "adCount": 64
+  },
+  {
+    "id": 428,
+    "name": "GT Biler A/S",
+    "address": "Ambolten 7",
+    "zipAndCity": "6000 Kolding",
+    "website": "https://www.gtbiler.dk",
+    "phone": "60399504",
+    "adCount": 49
+  },
+  {
+    "id": 3199,
+    "name": "Mercedes-Benz Starmark I/S",
+    "address": "Herredsvej 30",
+    "zipAndCity": "7100 Vejle",
+    "website": "https://www.starmark.dk",
+    "phone": "72116000",
+    "adCount": 235
+  },
+  {
+    "id": 7683,
+    "name": "Lexus København",
+    "address": "Dynamovej 10",
+    "zipAndCity": "2860 Søborg",
+    "website": "https://www.lexus.dk",
+    "phone": "44454141",
+    "adCount": 7
+  },
+  {
+    "id": 5679,
+    "name": "MATCHBILER A/S",
+    "address": "Gunnar Clausens Vej 13",
+    "zipAndCity": "8260 Viby J",
+    "website": "https://www.matchbiler.dk",
+    "phone": "87680200",
+    "adCount": 78
+  },
+  {
+    "id": 604,
+    "name": "Karvil Biler A/S",
+    "address": "Vejlevej 30",
+    "zipAndCity": "7000 Fredericia",
+    "website": "https://www.karvil.dk",
+    "phone": "75920211",
+    "adCount": 14
+  },
+  {
+    "id": 2423,
+    "name": "Autocentro A/S",
+    "address": "Havnepladsen 2",
+    "zipAndCity": "4800 Nykøbing F",
+    "website": "https://www.autocentro.dk",
+    "phone": "54843500",
+    "adCount": 28
+  },
+  {
+    "id": 5595,
+    "name": "Daugaard Biler",
+    "address": "Ejby Industrivej 3",
+    "zipAndCity": "2600 Glostrup",
+    "website": "https://www.daugaardbiler.dk",
+    "phone": "43434383",
+    "adCount": 51
+  },
+  {
+    "id": 5532,
+    "name": "Nellemann Viby J.",
+    "address": "Jens Juuls Vej 14",
+    "zipAndCity": "8260 Viby J",
+    "website": "https://nellemann.dk",
+    "phone": "88811914",
+    "adCount": 27
+  },
+  {
+    "id": 5533,
+    "name": "Nellemann Odense",
+    "address": "Odensevej 101",
+    "zipAndCity": "5260 Odense S",
+    "website": "https://www.kia.com/dk/forhandler/odense",
+    "phone": "78771008",
+    "adCount": 7
+  },
+  {
+    "id": 5607,
+    "name": "Mørch Automobiler A/S",
+    "address": "Anders Mørchsvej 3",
+    "zipAndCity": "9400 Nørresundby",
+    "website": "https://www.mabiler.dk",
+    "phone": "96322222",
+    "adCount": 48
+  },
+  {
+    "id": 5534,
+    "name": "Nellemann A/S - Valby",
+    "address": "Gl. Køgelandevej 105",
+    "zipAndCity": "2500 Valby",
+    "website": "https://www.kia.com/dk/forhandler/valby",
+    "phone": "70887846",
+    "adCount": 16
+  },
+  {
+    "id": 2465,
+    "name": "Max Due A/S",
+    "address": "Holsted Park 23",
+    "zipAndCity": "4700 Næstved",
+    "website": "https://www.maxdue.dk",
+    "phone": "55727666",
+    "adCount": 55
+  },
+  {
+    "id": 7167,
+    "name": "Max Due A/S",
+    "address": "Huginsvej 1",
+    "zipAndCity": "4100 Ringsted",
+    "website": "https://www.maxdue.dk",
+    "phone": "57610305",
+    "adCount": 53
+  },
+  {
+    "id": 5908,
+    "name": "Unique Biler A/S",
+    "address": "Erhvervsparken 3",
+    "zipAndCity": "6900 Skjern",
+    "website": "https://www.ubiler.dk",
+    "phone": "97354455",
+    "adCount": 12
+  },
+  {
+    "id": 339,
+    "name": "Max Due A/S",
+    "address": "Tangmosevej 101",
+    "zipAndCity": "4600 Køge",
+    "website": "https://www.maxdue.dk",
+    "phone": "56656800",
+    "adCount": 71
+  },
+  {
+    "id": 4951,
+    "name": "Knud Nielsen A/S - Hillerød",
+    "address": "Frejasvej 27",
+    "zipAndCity": "3400 Hillerød",
+    "website": "https://www.knud-nielsen.dk",
+    "phone": "48262323",
+    "adCount": 4
+  },
+  {
+    "id": 162,
+    "name": "Jørgen Hansen Biler A/S",
+    "address": "Ribevej 40",
+    "zipAndCity": "6780 Skærbæk",
+    "website": "https://www.jh-biler.dk",
+    "phone": "74752121",
+    "adCount": 74
+  },
+  {
+    "id": 5599,
+    "name": "Carl Edelholt Automobiler A/S",
+    "address": "Bjerrevej 27",
+    "zipAndCity": "8700 Horsens",
+    "website": "https://www.edelholt.dk",
+    "phone": "75641099",
+    "adCount": 13
+  },
+  {
+    "id": 7687,
+    "name": "Bilhuset Esbjerg A/S",
+    "address": "Exnersgade 17",
+    "zipAndCity": "6700 Esbjerg",
+    "website": "https://www.bilhuset-esbjerg.dk",
+    "phone": "21707017",
+    "adCount": 0
+  },
+  {
+    "id": 4952,
+    "name": "Knud Nielsen A/S- Frederikssund",
+    "address": "Korshøj 5",
+    "zipAndCity": "3600 Frederikssund",
+    "website": "https://www.knud-nielsen.dk",
+    "phone": "47310555",
+    "adCount": 4
+  },
+  {
+    "id": 155,
+    "name": "Kjerulff A/S",
+    "address": "Sverigesvej 12",
+    "zipAndCity": "4200 Slagelse",
+    "website": "https://www.kjerulff.dk",
+    "phone": "58520815",
+    "adCount": 37
+  },
+  {
+    "id": 797,
+    "name": "Andersen & Martini A/S",
+    "address": "Englandsvej 386",
+    "zipAndCity": "2770 Kastrup",
+    "website": "https://am.dk",
+    "phone": "70887245",
+    "adCount": 27
+  },
+  {
+    "id": 4360,
+    "name": "Brdr. Hosbond A/S",
+    "address": "Frederikshavnsvej 325",
+    "zipAndCity": "9800 Hjørring",
+    "website": "https://www.hosbond.dk",
+    "phone": "98925833",
+    "adCount": 47
+  },
+  {
+    "id": 5526,
+    "name": "Bjarne Nielsen A/S",
+    "address": "Birkerød Kongevej 37",
+    "zipAndCity": "3460 Birkerød",
+    "website": "https://www.bn.dk",
+    "phone": "70887353",
+    "adCount": 119
+  },
+  {
+    "id": 5525,
+    "name": "Bjarne Nielsen A/S",
+    "address": "Elskjærbakken 10",
+    "zipAndCity": "7800 Skive",
+    "website": "https://www.bn.dk",
+    "phone": "88811908",
+    "adCount": 107
+  },
+  {
+    "id": 5591,
+    "name": "Daugaard Biler",
+    "address": "Vandtårnsvej 81",
+    "zipAndCity": "2860 Søborg",
+    "website": "https://www.daugaardbiler.dk",
+    "phone": "39672622",
+    "adCount": 25
+  },
+  {
+    "id": 865,
+    "name": "Bilhuset Elmer A/S",
+    "address": "H C Ørsteds Vej 10",
+    "zipAndCity": "3000 Helsingør",
+    "website": "https://www.bilhusetelmer.dk",
+    "phone": "49203030",
+    "adCount": 83
+  },
+  {
+    "id": 5294,
+    "name": "Ejner Hessel TRP A/S",
+    "address": "Bragesvej 9",
+    "zipAndCity": "4100 Ringsted",
+    "website": "https://www.hessel.dk",
+    "phone": "73125601",
+    "adCount": 28
+  },
+  {
+    "id": 5098,
+    "name": "Autohuset Vestergaard A/S",
+    "address": "Ormhøjgårdvej 2",
+    "zipAndCity": "8700 Horsens",
+    "website": "https://www.autohuset-vestergaard.dk",
+    "phone": "75648000",
+    "adCount": 28
+  },
+  {
+    "id": 4137,
+    "name": "Bent Pedersen A/S",
+    "address": "Glansager 1",
+    "zipAndCity": "6400 Sønderborg",
+    "website": "https://www.bent-pedersen.dk",
+    "phone": "76941213",
+    "adCount": 5
+  },
+  {
+    "id": 3529,
+    "name": "Ejner Hessel A/S",
+    "address": "Sundsholmen 10",
+    "zipAndCity": "9400 Nørresundby",
+    "website": "https://www.hessel.dk",
+    "phone": "72115212",
+    "adCount": 34
+  },
+  {
+    "id": 2457,
+    "name": "Aunsbjerg Kolding A/S",
+    "address": "Platinvej 1",
+    "zipAndCity": "6000 Kolding",
+    "website": "https://www.aunsbjerg.com",
+    "phone": "75504066",
+    "adCount": 209
+  },
+  {
+    "id": 5623,
+    "name": "PMABILER A/S",
+    "address": "Præstemarksvænge 16",
+    "zipAndCity": "4000 Roskilde",
+    "website": "https://www.pmabiler.dk",
+    "phone": "70404179",
+    "adCount": 9
+  },
+  {
+    "id": 5033,
+    "name": "NISSAN Auto-Shop Holbæk",
+    "address": "Spånnebæk 8",
+    "zipAndCity": "4300 Holbæk",
+    "website": "https://www.holbaek.nissan.dk",
+    "phone": "59450797",
+    "adCount": 3
+  },
+  {
+    "id": 3527,
+    "name": "Ejner Hessel A/S",
+    "address": "Niels Finsensvej 2",
+    "zipAndCity": "7100 Vejle",
+    "website": "https://www.hessel.dk",
+    "phone": "72116600",
+    "adCount": 13
+  },
+  {
+    "id": 2570,
+    "name": "RAF Motors A/S",
+    "address": "Vejlevej 160",
+    "zipAndCity": "8700 Horsens",
+    "website": "https://www.rafmotors.dk",
+    "phone": "87118800",
+    "adCount": 107
+  },
+  {
+    "id": 663,
+    "name": "Tage Thomsen A/S",
+    "address": "Østervangsvej 1",
+    "zipAndCity": "8961 Allingåbro",
+    "website": "https://www.peugeot.dk/fausing",
+    "phone": "86481066",
+    "adCount": 94
+  },
+  {
+    "id": 4896,
+    "name": "P. Christensen A/S",
+    "address": "Ravnsøvej 12",
+    "zipAndCity": "8240 Risskov",
+    "website": "https://pchristensen.dk",
+    "phone": "70202203",
+    "adCount": 50
+  },
+  {
+    "id": 81,
+    "name": "Mogens Christensen A/S",
+    "address": "Marsk Stigsvej 3",
+    "zipAndCity": "8800 Viborg",
+    "website": "https://www.peugeot.dk/viborg",
+    "phone": "86624288",
+    "adCount": 11
+  },
+  {
+    "id": 596,
+    "name": "Martin Jespersen & Søn A/S",
+    "address": "Hjørringvej 158",
+    "zipAndCity": "9900 Frederikshavn",
+    "website": "https://www.peugeot.dk/frederikshavn",
+    "phone": "98424444",
+    "adCount": 25
+  },
+  {
+    "id": 2641,
+    "name": "AutoCentrum A/S Sønderborg",
+    "address": "Ellegårdvej 2",
+    "zipAndCity": "6400 Sønderborg",
+    "website": "https://www.autocentrum-biler.dk",
+    "phone": "23479429",
+    "adCount": 14
+  },
+  {
+    "id": 959,
+    "name": "Karvil Biler A/S",
+    "address": "Damgårdvej 5",
+    "zipAndCity": "5500 Middelfart",
+    "website": "https://www.karvil.dk",
+    "phone": "64411189",
+    "adCount": 15
+  },
+  {
+    "id": 95,
+    "name": "LKJ Biler Vejen A/S",
+    "address": "Dalgas Alle 6",
+    "zipAndCity": "6600 Vejen",
+    "website": "https://www.lkj.dk",
+    "phone": "76963333",
+    "adCount": 34
+  },
+  {
+    "id": 2381,
+    "name": "Kofoed & Thomsen A/S",
+    "address": "Ydunsvej 8",
+    "zipAndCity": "3400 Hillerød",
+    "website": "https://www.peugeot.dk/hillerod",
+    "phone": "70103200",
+    "adCount": 25
+  },
+  {
+    "id": 5562,
+    "name": "JL Automobiler A/S",
+    "address": "Tigervej 2",
+    "zipAndCity": "7700 Thisted",
+    "website": "https://www.jl-automobiler.dk",
+    "phone": "97924422",
+    "adCount": 19
+  },
+  {
+    "id": 4916,
+    "name": "Klosterbiler ApS",
+    "address": "Industrivej 35",
+    "zipAndCity": "6240 Løgumkloster",
+    "website": "https://klosterbiler.dk/brugte-biler",
+    "phone": "74745286",
+    "adCount": 31
+  },
+  {
+    "id": 5736,
+    "name": "Bilernes Hus A/S",
+    "address": "Bredhøjvej 5",
+    "zipAndCity": "8600 Silkeborg",
+    "website": "https://www.bilerneshus.dk",
+    "phone": "72100400",
+    "adCount": 544
+  },
+  {
+    "id": 530,
+    "name": "Nordkystens Autocenter A/S, Peugeot Helsingør",
+    "address": "H P Christensens Vej 8",
+    "zipAndCity": "3000 Helsingør",
+    "website": "https://forh.peugeot.dk/helsingor",
+    "phone": "49266400",
+    "adCount": 16
+  },
+  {
+    "id": 90,
+    "name": "Henrik Christensen A/S",
+    "address": "Valdemar Poulsensvej 2",
+    "zipAndCity": "7100 Vejle",
+    "website": "https://www.peugeot.dk/vejle",
+    "phone": "75823766",
+    "adCount": 68
+  },
+  {
+    "id": 4883,
+    "name": "G. Bech-Hansen A/S",
+    "address": "Enghavevej 21",
+    "zipAndCity": "6950 Ringkøbing",
+    "website": "https://forh.peugeot.dk/ringkobing",
+    "phone": "97321200",
+    "adCount": 46
+  },
+  {
+    "id": 3098,
+    "name": "C.A. Larsen Automobiler A/S",
+    "address": "Odensevej 108",
+    "zipAndCity": "5700 Svendborg",
+    "website": "https://www.peugeot.dk/svendborg",
+    "phone": "62214774",
+    "adCount": 108
+  },
+  {
+    "id": 3354,
+    "name": "C.A. Larsen Automobiler A/S",
+    "address": "Hasselager Alle 3",
+    "zipAndCity": "8260 Viby J",
+    "website": "https://www.peugeot.dk/Viby",
+    "phone": "87333777",
+    "adCount": 66
+  },
+  {
+    "id": 840,
+    "name": "C.A. Larsen Automobiler A/S",
+    "address": "Faaborgvej 9",
+    "zipAndCity": "5683 Haarby",
+    "website": "https://www.peugeot.dk./haarby",
+    "phone": "64731270",
+    "adCount": 57
+  },
+  {
+    "id": 116,
+    "name": "Højland Biler A/S",
+    "address": "Vilhelmsborgvej 17",
+    "zipAndCity": "7700 Thisted",
+    "website": "https://www.hojlandbiler.dk",
+    "phone": "97926677",
+    "adCount": 101
+  },
+  {
+    "id": 4178,
+    "name": "Børge Hansen Automobiler A/S",
+    "address": "Thomas Helstedsvej 1",
+    "zipAndCity": "8660 Skanderborg",
+    "website": "https://www.boergehansen.dk",
+    "phone": "87941500",
+    "adCount": 20
+  },
+  {
+    "id": 519,
+    "name": "C.A. Larsen Automobiler A/S",
+    "address": "Lollandsvej 6",
+    "zipAndCity": "7400 Herning",
+    "website": "https://www.peugeot.dk/herning",
+    "phone": "97221666",
+    "adCount": 76
+  },
+  {
+    "id": 156,
+    "name": "Brian Madsen A/S",
+    "address": "Skovsøviadukten 1",
+    "zipAndCity": "4200 Slagelse",
+    "website": "https://forh.peugeot.dk/slagelse",
+    "phone": "58580858",
+    "adCount": 35
+  },
+  {
+    "id": 312,
+    "name": "Brian Jørgensen Automobiler",
+    "address": "Sandvikenvej 5",
+    "zipAndCity": "4900 Nakskov",
+    "website": "https://www.peugeot.dk/nakskov",
+    "phone": "54785002",
+    "adCount": 3
+  },
+  {
+    "id": 254,
+    "name": "C.A. Larsen Automobiler A/S",
+    "address": "Hans Egedes Vej 2",
+    "zipAndCity": "5210 Odense NV",
+    "website": "https://www.cal.dk",
+    "phone": "66164816",
+    "adCount": 149
+  },
+  {
+    "id": 386,
+    "name": "Bo Kjeldsmark Automobiler A/S",
+    "address": "Islevdalvej 75",
+    "zipAndCity": "2610 Rødovre",
+    "website": "https://www.peugeot.dk/rodovre",
+    "phone": "44910400",
+    "adCount": 50
+  },
+  {
+    "id": 480,
+    "name": "Bojsen Biler A/S",
+    "address": "Hjaltesvej 4",
+    "zipAndCity": "7500 Holstebro",
+    "website": "https://www.bojsenbiler.dk",
+    "phone": "97405250",
+    "adCount": 74
+  },
+  {
+    "id": 5504,
+    "name": "Andersen Biler",
+    "address": "Vølundsvej 11",
+    "zipAndCity": "3600 Frederikssund",
+    "website": "https://www.andersenbiler.dk",
+    "phone": "70886340",
+    "adCount": 41
+  },
+  {
+    "id": 5305,
+    "name": "Andersen Biler",
+    "address": "Lokesvej 4",
+    "zipAndCity": "3400 Hillerød",
+    "website": "https://www.andersenbiler.dk",
+    "phone": "70886390",
+    "adCount": 27
+  },
+  {
+    "id": 742,
+    "name": "Auto-Huset Skive A/S",
+    "address": "Viborgvej 46",
+    "zipAndCity": "7800 Skive",
+    "website": "https://www.peugeot.dk/skive",
+    "phone": "97523322",
+    "adCount": 11
+  },
+  {
+    "id": 404,
+    "name": "Bilhuset Taastrup A/S",
+    "address": "Roskildevej 315",
+    "zipAndCity": "2630 Taastrup",
+    "website": "https://www.peugeot.dk/taastrup",
+    "phone": "43350070",
+    "adCount": 21
+  },
+  {
+    "id": 5379,
+    "name": "Bilhuset Brønderslev",
+    "address": "Eventyrvej 14",
+    "zipAndCity": "9700 Brønderslev",
+    "website": "https://forh.peugeot.dk/bronderslev",
+    "phone": "98800455",
+    "adCount": 4
+  },
+  {
+    "id": 5010,
+    "name": "Andersen Biler",
+    "address": "Sandbækvej 3",
+    "zipAndCity": "2610 Rødovre",
+    "website": "https://www.andersenbiler.dk",
+    "phone": "70887749",
+    "adCount": 49
+  },
+  {
+    "id": 5151,
+    "name": "Andersen Biler",
+    "address": "Rovsingsgade 78A",
+    "zipAndCity": "2200 København N",
+    "website": "https://www.andersenbiler.dk",
+    "phone": "88811902",
+    "adCount": 21
+  },
+  {
+    "id": 266,
+    "name": "Bilhuset Ronald Carlsen A/S",
+    "address": "Rolundvej 9",
+    "zipAndCity": "5260 Odense S",
+    "website": "https://bilhuset-ronald-carlsen.peugeot.dk",
+    "phone": "65957778",
+    "adCount": 98
+  },
+  {
+    "id": 575,
+    "name": "A.Boesenbæk A/S",
+    "address": "Diagonalvejen 77",
+    "zipAndCity": "7323 Give",
+    "website": "https://www.boesenbaek.dk",
+    "phone": "75731600",
+    "adCount": 42
+  },
+  {
+    "id": 2572,
+    "name": "Vejlebo & Larsen ApS",
+    "address": "Mellemvang 1",
+    "zipAndCity": "4300 Holbæk",
+    "website": "https://www.vejlebolarsen.dk",
+    "phone": "88886700",
+    "adCount": 25
+  },
+  {
+    "id": 2571,
+    "name": "Vejlebo & Larsen ApS",
+    "address": "Maglegårdsvej 5",
+    "zipAndCity": "4000 Roskilde",
+    "website": "https://www.vejlebolarsen.dk",
+    "phone": "88886767",
+    "adCount": 25
+  },
+  {
+    "id": 5493,
+    "name": "AUTOFYN ApS",
+    "address": "Mandal Allé 11-13",
+    "zipAndCity": "5500 Middelfart",
+    "website": "https://autofyn.dk",
+    "phone": "64414230",
+    "adCount": 36
+  },
+  {
+    "id": 826,
+    "name": "Andersen & Martini A/S",
+    "address": "Husmandsvej 3",
+    "zipAndCity": "2630 Taastrup",
+    "website": "https://am.dk",
+    "phone": "70888177",
+    "adCount": 70
+  },
+  {
+    "id": 5481,
+    "name": "Uggerhøj Horsens",
+    "address": "Høgh Guldbergsgade 46",
+    "zipAndCity": "8700 Horsens",
+    "website": "https://www.uggerhoej.dk",
+    "phone": "79277200",
+    "adCount": 53
+  },
+  {
+    "id": 4181,
+    "name": "Thybo Biler",
+    "address": "Nybovej 55",
+    "zipAndCity": "7500 Holstebro",
+    "website": "https://www.thybobiler.dk",
+    "phone": "96101010",
+    "adCount": 30
+  },
+  {
+    "id": 4953,
+    "name": "Thybo Biler",
+    "address": "Birkmosevej 22",
+    "zipAndCity": "6950 Ringkøbing",
+    "website": "https://www.thybobiler.dk",
+    "phone": "97321122",
+    "adCount": 17
+  },
+  {
+    "id": 4175,
+    "name": "Thybo Biler",
+    "address": "Hjulmagervej 2",
+    "zipAndCity": "7700 Thisted",
+    "website": "https://www.thybobiler.dk",
+    "phone": "96172386",
+    "adCount": 13
+  },
+  {
+    "id": 4965,
+    "name": "Nyboes Auto ApS",
+    "address": "Åkirkebyvej 64",
+    "zipAndCity": "3700 Rønne",
+    "website": "https://nyboesauto.dk",
+    "phone": "56952650",
+    "adCount": 0
+  },
+  {
+    "id": 5158,
+    "name": "Uggerhøj Herning",
+    "address": "Wedellsborgvej 1",
+    "zipAndCity": "7400 Herning",
+    "website": "https://www.uggerhoej.dk",
+    "phone": "97267222",
+    "adCount": 34
+  },
+  {
+    "id": 5155,
+    "name": "Uggerhøj Hjørring",
+    "address": "Frederikshavnsvej 5",
+    "zipAndCity": "9800 Hjørring",
+    "website": "https://www.uggerhoej.dk",
+    "phone": "98922533",
+    "adCount": 39
+  },
+  {
+    "id": 792,
+    "name": "LMC Biler A/S",
+    "address": "Heldumvej 65",
+    "zipAndCity": "7620 Lemvig",
+    "website": "https://lmcbiler.dk",
+    "phone": "97821344",
+    "adCount": 9
+  },
+  {
+    "id": 706,
+    "name": "Klaus Buus A/S",
+    "address": "Messevej 10",
+    "zipAndCity": "9600 Aars",
+    "website": "https://www.klausbuus.dk",
+    "phone": "98622224",
+    "adCount": 24
+  },
+  {
+    "id": 2464,
+    "name": "Kjær Biler A/S",
+    "address": "Gl. Christiansfeldtvej 57",
+    "zipAndCity": "6100 Haderslev",
+    "website": "https://forh.peugeot.dk/haderslev",
+    "phone": "73531250",
+    "adCount": 21
+  },
+  {
+    "id": 4424,
+    "name": "Henrik Wessel AS, Østerbro",
+    "address": "Strandboulevarden 122",
+    "zipAndCity": "2100 København Ø",
+    "website": "https://www.peugeot.dk/kbh-c",
+    "phone": "53502762",
+    "adCount": 22
+  },
+  {
+    "id": 270,
+    "name": "Motorcompagniet",
+    "address": "Rude Havvej 15",
+    "zipAndCity": "8300 Odder",
+    "website": "https://www.motorcompagniet.dk",
+    "phone": "86541244",
+    "adCount": 24
+  },
+  {
+    "id": 5971,
+    "name": "Gunner Due Biler Slagelse ApS",
+    "address": "Ndr. Ringgade 1",
+    "zipAndCity": "4200 Slagelse",
+    "website": "https://www.gunnerdue.dk",
+    "phone": "58526688",
+    "adCount": 0
+  },
+  {
+    "id": 5036,
+    "name": "Erling Høi-Nielsen A/S",
+    "address": "Brunde Vest 5",
+    "zipAndCity": "6230 Rødekro",
+    "website": "https://www.erlinghoi-nielsen.dk",
+    "phone": "74432000",
+    "adCount": 10
+  },
+  {
+    "id": 416,
+    "name": "Henrik Wessel AS, Lyngby",
+    "address": "Firskovvej 19",
+    "zipAndCity": "2800 Kongens Lyngby",
+    "website": "https://www.peugeot.dk/lyngby",
+    "phone": "31122655",
+    "adCount": 16
+  },
+  {
+    "id": 3304,
+    "name": "Erling Høi-Nielsen A/S",
+    "address": "Elholm 21",
+    "zipAndCity": "6400 Sønderborg",
+    "website": "https://www.erlinghoi-nielsen.dk",
+    "phone": "74432000",
+    "adCount": 21
+  },
+  {
+    "id": 379,
+    "name": "Henrik Wessel AS, Amager",
+    "address": "Englandsvej 397",
+    "zipAndCity": "2770 Kastrup",
+    "website": "https://www.peugeot.dk/amager",
+    "phone": "53502272",
+    "adCount": 27
+  },
+  {
+    "id": 5470,
+    "name": "Copenhagen Carmarket",
+    "address": "Slotsherrensvej 411",
+    "zipAndCity": "2610 Rødovre",
+    "website": "https://www.copenhagencarmarket.dk",
+    "phone": "53828344",
+    "adCount": 0
+  },
+  {
+    "id": 28,
+    "name": "Erik Maibom A/S",
+    "address": "Padevænget 3",
+    "zipAndCity": "9000 Aalborg",
+    "website": "https://www.maibom.dk",
+    "phone": "96316422",
+    "adCount": 114
+  },
+  {
+    "id": 580,
+    "name": "Faaborg Bil-Center",
+    "address": "Telemarken 2",
+    "zipAndCity": "5600 Faaborg",
+    "website": "https://www.faaborg-bilcenter.dk",
+    "phone": "62619060",
+    "adCount": 44
+  },
+  {
+    "id": 895,
+    "name": "Burgaard Sørensen A/S",
+    "address": "Peugeot - Sædding Ringvej 5",
+    "zipAndCity": "6710 Esbjerg V",
+    "website": "https://burgaard-sorensen.dk",
+    "phone": "76124613",
+    "adCount": 33
+  },
+  {
+    "id": 101,
+    "name": "Burgaard Sørensen A/S",
+    "address": "Peugeot - Tømrervej 8",
+    "zipAndCity": "6800 Varde",
+    "website": "https://burgaard-sorensen.dk",
+    "phone": "76124637",
+    "adCount": 15
+  },
+  {
+    "id": 2556,
+    "name": "Bilcentret Peer Glad A/S",
+    "address": "Slagelsevej 88",
+    "zipAndCity": "4400 Kalundborg",
+    "website": "https://glad.dk",
+    "phone": "59511064",
+    "adCount": 72
+  },
+  {
+    "id": 7819,
+    "name": "Bilerne.com - Hobro",
+    "address": "Jeppe Aakjærs Vej 4",
+    "zipAndCity": "9500 Hobro",
+    "website": "https://www.bilerne.com",
+    "phone": "87103587",
+    "adCount": 13
+  },
+  {
+    "id": 5091,
+    "name": "Autohuset Vestergaard A/S",
+    "address": "Birkerød Kongevej 56",
+    "zipAndCity": "3460 Birkerød",
+    "website": "https://www.autohuset-vestergaard.dk",
+    "phone": "45811819",
+    "adCount": 38
+  },
+  {
+    "id": 7121,
+    "name": "A/S Niels Linnebæk af Stenløse",
+    "address": "Støberievej 6",
+    "zipAndCity": "3660 Stenløse",
+    "website": "https://as-niels-linnebaek.citroen.dk",
+    "phone": "47172400",
+    "adCount": 7
+  },
+  {
+    "id": 2573,
+    "name": "Brian Madsen Ringsted ApS",
+    "address": "Møllevej 2",
+    "zipAndCity": "4100 Ringsted",
+    "website": "https://www.peugeot.dk/ringsted",
+    "phone": "57610070",
+    "adCount": 39
+  },
+  {
+    "id": 645,
+    "name": "Bilcentret A. Nielsen A/S",
+    "address": "Mandal Allé 15",
+    "zipAndCity": "5500 Middelfart",
+    "website": "https://www.bilcentret.dk",
+    "phone": "40937483",
+    "adCount": 28
+  },
+  {
+    "id": 3674,
+    "name": "UJS Biler Viborg A/S",
+    "address": "Gl. Skivevej 83",
+    "zipAndCity": "8800 Viborg",
+    "website": "https://www.ujs-biler.dk",
+    "phone": "86613333",
+    "adCount": 53
+  },
+  {
+    "id": 5626,
+    "name": "Trio Biler ApS",
+    "address": "Brøndbytoften 7",
+    "zipAndCity": "2605 Brøndby",
+    "website": "https://www.triobiler.dk",
+    "phone": "39535400",
+    "adCount": 16
+  },
+  {
+    "id": 5625,
+    "name": "Trio Biler ApS",
+    "address": "Energivej 22",
+    "zipAndCity": "2750 Ballerup",
+    "website": "https://www.triobiler.dk",
+    "phone": "39535400",
+    "adCount": 7
+  },
+  {
+    "id": 816,
+    "name": "Andersen & Martini A/S",
+    "address": "Tempovej 17",
+    "zipAndCity": "2750 Ballerup",
+    "website": "https://am.dk",
+    "phone": "70887867",
+    "adCount": 63
+  },
+  {
+    "id": 298,
+    "name": "Schulz Biler ApS",
+    "address": "Herningvej 11",
+    "zipAndCity": "4800 Nykøbing F",
+    "website": "https://www.schulzbiler.dk",
+    "phone": "54861016",
+    "adCount": 49
+  },
+  {
+    "id": 5717,
+    "name": "Leif Jørgensen Automobiler Ribe ApS",
+    "address": "Industrivej 12",
+    "zipAndCity": "6760 Ribe",
+    "website": "https://leif-biler.dk",
+    "phone": "75420933",
+    "adCount": 79
+  },
+  {
+    "id": 1078,
+    "name": "Tvergaard Biler",
+    "address": "Sydhavnsvej 5",
+    "zipAndCity": "3390 Hundested",
+    "website": "https://www.tvergaard-biler.dk",
+    "phone": "47937322",
+    "adCount": 8
+  },
+  {
+    "id": 5622,
+    "name": "PMABILER A/S",
+    "address": "Falkevej 6",
+    "zipAndCity": "4600 Køge",
+    "website": "https://www.pmabiler.dk",
+    "phone": "70404179",
+    "adCount": 24
+  },
+  {
+    "id": 50,
+    "name": "Johs.Jørgensen og Sønner A/S",
+    "address": "Øllebøllevej 24",
+    "zipAndCity": "4894 Øster Ulslev",
+    "website": "https://www.johs-biler.dk",
+    "phone": "54865280",
+    "adCount": 6
+  },
+  {
+    "id": 256,
+    "name": "Karvil Biler A/S",
+    "address": "Faaborgvej 149",
+    "zipAndCity": "5250 Odense SV",
+    "website": "https://www.karvil.dk",
+    "phone": "66170080",
+    "adCount": 20
+  },
+  {
+    "id": 5654,
+    "name": "Jan's Auto",
+    "address": "Lupinvej 17",
+    "zipAndCity": "9500 Hobro",
+    "website": "https://www.jans-auto.dk",
+    "phone": "",
+    "adCount": 40
+  },
+  {
+    "id": 5930,
+    "name": "Harris Hansen Biler A/S",
+    "address": "Fabriksvej 7",
+    "zipAndCity": "3000 Helsingør",
+    "website": "https://www.harrishansenbiler.dk",
+    "phone": "49224422",
+    "adCount": 11
+  },
+  {
+    "id": 6998,
+    "name": "Hedegaard Biler A/S",
+    "address": "Dueoddevej 2",
+    "zipAndCity": "7400 Herning",
+    "website": "https://hedegaard-biler.dk",
+    "phone": "97220311",
+    "adCount": 20
+  },
+  {
+    "id": 5946,
+    "name": "Fasterholdt Biler ApS",
+    "address": "Grindstedvej 10",
+    "zipAndCity": "7190 Billund",
+    "website": "https://www.fasterholdt-biler.dk",
+    "phone": "75331422",
+    "adCount": 9
+  },
+  {
+    "id": 5846,
+    "name": "Globus Biler A/S",
+    "address": "Navervej 4",
+    "zipAndCity": "8600 Silkeborg",
+    "website": "https://www.globus.dk",
+    "phone": "86828000",
+    "adCount": 65
+  },
+  {
+    "id": 5420,
+    "name": "Dahl Biler A/S",
+    "address": "Ålandsvej 1",
+    "zipAndCity": "8800 Viborg",
+    "website": "https://dahl-biler.dk",
+    "phone": "86626633",
+    "adCount": 0
+  },
+  {
+    "id": 5419,
+    "name": "Dahl Biler A/S",
+    "address": "Fælledvej 5",
+    "zipAndCity": "7600 Struer",
+    "website": "https://dahl-biler.dk",
+    "phone": "97851700",
+    "adCount": 0
+  },
+  {
+    "id": 5418,
+    "name": "Dahl Biler A/S",
+    "address": "Nybovej 37",
+    "zipAndCity": "7500 Holstebro",
+    "website": "https://dahl-biler.dk",
+    "phone": "97497600",
+    "adCount": 0
+  },
+  {
+    "id": 4231,
+    "name": "Fårevejle Auto og Pladeværksted",
+    "address": "Ordrupvej 17",
+    "zipAndCity": "4540 Fårevejle",
+    "website": "https://www.faarevejleauto.dk",
+    "phone": "59653140",
+    "adCount": 7
+  },
+  {
+    "id": 5021,
+    "name": "Dahl Biler A/S",
+    "address": "Ålandsvej 1",
+    "zipAndCity": "8800 Viborg",
+    "website": "https://dahl-biler.dk",
+    "phone": "86626633",
+    "adCount": 28
+  },
+  {
+    "id": 3802,
+    "name": "AutoForum Slagelse A/S",
+    "address": "Holbækvej 3",
+    "zipAndCity": "4200 Slagelse",
+    "website": "https://autoforum-slagelse.dk",
+    "phone": "58528181",
+    "adCount": 0
+  },
+  {
+    "id": 4905,
+    "name": "Dahl Biler A/S",
+    "address": "Nybovej 37",
+    "zipAndCity": "7500 Holstebro",
+    "website": "https://dahl-biler.dk",
+    "phone": "97497600",
+    "adCount": 26
+  },
+  {
+    "id": 4221,
+    "name": "Bjergby Autoværksted A/S",
+    "address": "Navervænget 1",
+    "zipAndCity": "9800 Hjørring",
+    "website": "https://www.bjergby-autovaerksted.dk",
+    "phone": "98971055",
+    "adCount": 7
+  },
+  {
+    "id": 4906,
+    "name": "Dahl Biler A/S",
+    "address": "Fælledvej 5",
+    "zipAndCity": "7600 Struer",
+    "website": "https://dahl-biler.dk",
+    "phone": "97851700",
+    "adCount": 23
+  },
+  {
+    "id": 2415,
+    "name": "Andersen Biler",
+    "address": "Herlev Hovedgade 50",
+    "zipAndCity": "2730 Herlev",
+    "website": "https://www.andersenbiler.dk",
+    "phone": "70887339",
+    "adCount": 30
+  },
+  {
+    "id": 5202,
+    "name": "Toftlund MC",
+    "address": "Koldingvej 24",
+    "zipAndCity": "6520 Toftlund",
+    "website": "https://www.toftlundmc.dk",
+    "phone": "74832555",
+    "adCount": 0
+  },
+  {
+    "id": 5956,
+    "name": "Terminalen Birkerød A/S",
+    "address": "Bistrupvej 126",
+    "zipAndCity": "3460 Birkerød",
+    "website": "https://www.terminalen.dk",
+    "phone": "45817808",
+    "adCount": 21
+  },
+  {
+    "id": 3702,
+    "name": "P. Christensen A/S",
+    "address": "Roskildevej 249",
+    "zipAndCity": "2620 Albertslund",
+    "website": "https://pchristensen.dk",
+    "phone": "70202203",
+    "adCount": 21
+  },
+  {
+    "id": 590,
+    "name": "Due Andersen Automobiler ApS",
+    "address": "Frederiksværkvej 18",
+    "zipAndCity": "3600 Frederikssund",
+    "website": "https://www.honda-frederikssund.dk",
+    "phone": "47313501",
+    "adCount": 1
+  },
+  {
+    "id": 2921,
+    "name": "Koch Biler A/S",
+    "address": "Gunnar Clausensvej 12",
+    "zipAndCity": "8260 Viby J",
+    "website": "https://www.kochbiler.dk",
+    "phone": "87386800",
+    "adCount": 10
+  },
+  {
+    "id": 347,
+    "name": "Virum Auto A/S",
+    "address": "Virumgårdsvej 8",
+    "zipAndCity": "2830 Virum",
+    "website": "https://www.virumauto.dk",
+    "phone": "45858866",
+    "adCount": 5
+  },
+  {
+    "id": 2805,
+    "name": "Karvil Biler A/S",
+    "address": "Bondovej 13",
+    "zipAndCity": "5250 Odense SV",
+    "website": "https://www.karvil.dk",
+    "phone": "63174141",
+    "adCount": 17
+  },
+  {
+    "id": 212,
+    "name": "A/S Preben Mortensen Biler",
+    "address": "Darupvang 13",
+    "zipAndCity": "4000 Roskilde",
+    "website": "https://www.hyundai-roskilde.dk",
+    "phone": "46362279",
+    "adCount": 20
+  },
+  {
+    "id": 5459,
+    "name": "Arne Busk Automobiler A/S",
+    "address": "Marinebuen 6",
+    "zipAndCity": "4700 Næstved",
+    "website": "https://arne-busk-automobiler.citroen.dk/naestved",
+    "phone": "55738510",
+    "adCount": 7
+  },
+  {
+    "id": 5458,
+    "name": "Arne Busk Automobiler A/S",
+    "address": "Rønnedevej 30",
+    "zipAndCity": "4640 Faxe",
+    "website": "https://arne-busk-automobiler.citroen.dk",
+    "phone": "56714224",
+    "adCount": 4
+  },
+  {
+    "id": 3393,
+    "name": "Ødegaard Biler A/S",
+    "address": "Herningvej 25",
+    "zipAndCity": "4800 Nykøbing F",
+    "website": "https://www.ford.odegaardbiler.dk",
+    "phone": "54841025",
+    "adCount": 11
+  },
+  {
+    "id": 5511,
+    "name": "Rørbæk Biler A/S, Frederikshavn",
+    "address": "GL. Skagensvej 109",
+    "zipAndCity": "9900 Frederikshavn",
+    "website": "https://roerbaekbiler.dk",
+    "phone": "98435420",
+    "adCount": 73
+  },
+  {
+    "id": 5450,
+    "name": "Karvil Biler A/S",
+    "address": "Vejlevej 52",
+    "zipAndCity": "7000 Fredericia",
+    "website": "https://www.karvil.dk",
+    "phone": "75926500",
+    "adCount": 10
+  },
+  {
+    "id": 2490,
+    "name": "Tolderlunds Auto ApS",
+    "address": "Pedersholmparken 1",
+    "zipAndCity": "3600 Frederikssund",
+    "website": "https://hyundai-frederikssund.dk",
+    "phone": "47317050",
+    "adCount": 23
+  },
+  {
+    "id": 5904,
+    "name": "Caripo Biler A/S",
+    "address": "Høegh Guldbergs Gade 36",
+    "zipAndCity": "8700 Horsens",
+    "website": "https://caripo-biler.dk",
+    "phone": "76281800",
+    "adCount": 30
+  },
+  {
+    "id": 198,
+    "name": "Ødegaard Biler A/S",
+    "address": "Nystedvej 18",
+    "zipAndCity": "4990 Sakskøbing",
+    "website": "https://www.ford.odegaardbiler.dk",
+    "phone": "54704331",
+    "adCount": 8
+  },
+  {
+    "id": 106,
+    "name": "Vest-Biler Syd A/S",
+    "address": "Kærgårdsvej 8",
+    "zipAndCity": "6270 Tønder",
+    "website": "https://www.vest-biler-syd.dk",
+    "phone": "74722244",
+    "adCount": 37
+  },
+  {
+    "id": 502,
+    "name": "Rørbæk Biler A/S Hjørring",
+    "address": "Vandværksvej 8",
+    "zipAndCity": "9800 Hjørring",
+    "website": "https://roerbaekbiler.dk",
+    "phone": "98901620",
+    "adCount": 77
+  },
+  {
+    "id": 281,
+    "name": "Selandia Automobiler AS",
+    "address": "Holsted Park 2",
+    "zipAndCity": "4700 Næstved",
+    "website": "https://www.selandia-auto.dk",
+    "phone": "40105613",
+    "adCount": 57
+  },
+  {
+    "id": 3905,
+    "name": "Pedersen & Nielsen Automobilforretning A/S",
+    "address": "Plastvænget 2",
+    "zipAndCity": "9560 Hadsund",
+    "website": "https://www.autohus.dk",
+    "phone": "98571644",
+    "adCount": 16
+  },
+  {
+    "id": 329,
+    "name": "Lemvig Auto ApS",
+    "address": "Høgevej 30",
+    "zipAndCity": "7620 Lemvig",
+    "website": "https://www.lemvigauto.dk",
+    "phone": "97820855",
+    "adCount": 21
+  },
+  {
+    "id": 758,
+    "name": "Selandia Automobiler AS",
+    "address": "Huginsvej 25",
+    "zipAndCity": "4100 Ringsted",
+    "website": "https://www.selandia-auto.dk",
+    "phone": "40105613",
+    "adCount": 63
+  },
+  {
+    "id": 5559,
+    "name": "Jens Buus Biler A/S",
+    "address": "Hobrovej 5",
+    "zipAndCity": "9600 Aars",
+    "website": "https://ford.jensbuus.dk",
+    "phone": "98621299",
+    "adCount": 27
+  },
+  {
+    "id": 5561,
+    "name": "Kristian Odgaard APS",
+    "address": "Vesterbro 12",
+    "zipAndCity": "7900 Nykøbing M",
+    "website": "https://www.ford-mors.dk",
+    "phone": "20785400",
+    "adCount": 42
+  },
+  {
+    "id": 164,
+    "name": "Stig Rasmussen Automobiler A/S",
+    "address": "Industrivej 11",
+    "zipAndCity": "4230 Skælskør",
+    "website": "https://www.srautomobiler.dk",
+    "phone": "58194535",
+    "adCount": 22
+  },
+  {
+    "id": 4152,
+    "name": "Jepsen Biler ApS",
+    "address": "Østervej 50",
+    "zipAndCity": "6510 Gram",
+    "website": "https://www.jepsenbiler.dk",
+    "phone": "74821900",
+    "adCount": 7
+  },
+  {
+    "id": 747,
+    "name": "Jepsen Biler ApS",
+    "address": "Skodborgvej 5",
+    "zipAndCity": "6630 Rødding",
+    "website": "https://www.jepsenbiler.dk",
+    "phone": "74847248",
+    "adCount": 22
+  },
+  {
+    "id": 2451,
+    "name": "Ove Jensen Biler",
+    "address": "Lokesvej 6",
+    "zipAndCity": "3400 Hillerød",
+    "website": "https://www.citroenforhandler.dk/hilleroed",
+    "phone": "48260060",
+    "adCount": 36
+  },
+  {
+    "id": 2481,
+    "name": "Carsten Pedersen Automobiler ApS",
+    "address": "Gørtlervej 1",
+    "zipAndCity": "5750 Ringe",
+    "website": "https://www.cpautomobiler.dk",
+    "phone": "62624590",
+    "adCount": 16
+  },
+  {
+    "id": 589,
+    "name": "Brøndum Andersen Autogården A/S",
+    "address": "Pedersholmparken 2",
+    "zipAndCity": "3600 Frederikssund",
+    "website": "https://broendum-andersen-autogaarden.citroen.dk/frederikssund",
+    "phone": "47310431",
+    "adCount": 28
+  },
+  {
+    "id": 5613,
+    "name": "Citroen Bornholm",
+    "address": "Vangsbovej 8",
+    "zipAndCity": "3730 Nexø",
+    "website": "https://www.citroenforhandler.dk/nexoe",
+    "phone": "56488365",
+    "adCount": 21
+  },
+  {
+    "id": 4076,
+    "name": "Autonova ApS",
+    "address": "Løvdalsvej 3",
+    "zipAndCity": "3000 Helsingør",
+    "website": "https://www.autonova.dk",
+    "phone": "49252222",
+    "adCount": 25
+  },
+  {
+    "id": 5566,
+    "name": "J. P. Tamstorf Automobiler A/S",
+    "address": "Kirkestræde 5",
+    "zipAndCity": "4500 Nykøbing Sj",
+    "website": "https://www.ford.tamstorf.dk",
+    "phone": "59911400",
+    "adCount": 1
+  },
+  {
+    "id": 5316,
+    "name": "Citroen Center Birkerød",
+    "address": "Toftebakken 4",
+    "zipAndCity": "3460 Birkerød",
+    "website": "https://henrik-jacobsen-automobiler.citroen.dk",
+    "phone": "45811573",
+    "adCount": 11
+  },
+  {
+    "id": 97,
+    "name": "Jepsen Biler ApS",
+    "address": "Fuglesangsalle 12",
+    "zipAndCity": "6600 Vejen",
+    "website": "https://www.jepsenbiler.dk",
+    "phone": "75363531",
+    "adCount": 31
+  },
+  {
+    "id": 4113,
+    "name": "Indkilde Auto A/S",
+    "address": "Hobrovej 325",
+    "zipAndCity": "9200 Aalborg SV",
+    "website": "https://indkilde.dk",
+    "phone": "96349000",
+    "adCount": 49
+  },
+  {
+    "id": 4337,
+    "name": "Gunner Due Biler Roskilde A/S",
+    "address": "Københavnsvej 148",
+    "zipAndCity": "4000 Roskilde",
+    "website": "https://www.gunnerdue.dk",
+    "phone": "46756900",
+    "adCount": 3
+  },
+  {
+    "id": 2433,
+    "name": "Gildberg A/S",
+    "address": "Gl. Christiansfeldtvej 74",
+    "zipAndCity": "6100 Haderslev",
+    "website": "https://www.gildberg-brugte.dk",
+    "phone": "20165108",
+    "adCount": 43
+  },
+  {
+    "id": 7521,
+    "name": "Ejner Hessel A/S",
+    "address": "Vibeholmvej 25",
+    "zipAndCity": "2605 Brøndby",
+    "website": "https://www.hessel.dk",
+    "phone": "73125700",
+    "adCount": 3
+  },
+  {
+    "id": 4359,
+    "name": "Brdr. Hosbond A/S",
+    "address": "Søndergade 253",
+    "zipAndCity": "9900 Frederikshavn",
+    "website": "https://www.hosbond.dk",
+    "phone": "96202300",
+    "adCount": 14
+  },
+  {
+    "id": 4993,
+    "name": "Bøje & Brøchner A/S",
+    "address": "Boulevarden 58",
+    "zipAndCity": "7100 Vejle",
+    "website": "https://www.bbvejle.dk",
+    "phone": "75826000",
+    "adCount": 49
+  },
+  {
+    "id": 5519,
+    "name": "Bjarne Nielsen A/S",
+    "address": "Sletten 3",
+    "zipAndCity": "7500 Holstebro",
+    "website": "https://www.bn.dk",
+    "phone": "88811906",
+    "adCount": 104
+  },
+  {
+    "id": 5520,
+    "name": "Bjarne Nielsen A/S",
+    "address": "Usserød Kongevej 113",
+    "zipAndCity": "2970 Hørsholm",
+    "website": "https://www.bn.dk",
+    "phone": "70886960",
+    "adCount": 99
+  },
+  {
+    "id": 5523,
+    "name": "Bjarne Nielsen A/S",
+    "address": "Skaadsmosevej 20",
+    "zipAndCity": "6950 Ringkøbing",
+    "website": "https://www.bn.dk",
+    "phone": "88811907",
+    "adCount": 77
+  },
+  {
+    "id": 4358,
+    "name": "Brdr. Hosbond A/S",
+    "address": "Østergade 148",
+    "zipAndCity": "9700 Brønderslev",
+    "website": "https://www.hosbond.dk",
+    "phone": "40756725",
+    "adCount": 18
+  },
+  {
+    "id": 2812,
+    "name": "Brdr. Hosbond A/S",
+    "address": "Skjernvej 4",
+    "zipAndCity": "9220 Aalborg Øst",
+    "website": "https://www.hosbond.dk",
+    "phone": "99303500",
+    "adCount": 21
+  },
+  {
+    "id": 5514,
+    "name": "Bjarne Nielsen A/S",
+    "address": "Storegade 229",
+    "zipAndCity": "6705 Esbjerg Ø",
+    "website": "https://www.bn.dk",
+    "phone": "78771004",
+    "adCount": 125
+  },
+  {
+    "id": 67,
+    "name": "BilhusetTHYBO A/S",
+    "address": "Bredgade 74",
+    "zipAndCity": "5492 Vissenbjerg",
+    "website": "https://www.bilhusetthybo.dk",
+    "phone": "64471165",
+    "adCount": 44
+  },
+  {
+    "id": 5099,
+    "name": "Autohuset Vestergaard A/S",
+    "address": "Svendborgvej 90",
+    "zipAndCity": "5260 Odense S",
+    "website": "https://www.autohuset-vestergaard.dk",
+    "phone": "66141414",
+    "adCount": 63
+  },
+  {
+    "id": 3899,
+    "name": "Auto-Cramer A/S",
+    "address": "Bohrsvej 1",
+    "zipAndCity": "6760 Ribe",
+    "website": "https://www.ford.autocramer.dk",
+    "phone": "75420433",
+    "adCount": 38
+  },
+  {
+    "id": 5113,
+    "name": "Andersen Biler",
+    "address": "Energivej 4",
+    "zipAndCity": "2750 Ballerup",
+    "website": "https://www.andersenbiler.dk",
+    "phone": "70886482",
+    "adCount": 36
+  },
+  {
+    "id": 3834,
+    "name": "Auto-Cramer A/S",
+    "address": "Storegade 100",
+    "zipAndCity": "6740 Bramming",
+    "website": "https://www.ford.autocramer.dk",
+    "phone": "75173333",
+    "adCount": 48
+  },
+  {
+    "id": 512,
+    "name": "Jønsson's Auto A/S",
+    "address": "Krakasvej 5",
+    "zipAndCity": "3400 Hillerød",
+    "website": "https://www.jauto.dk",
+    "phone": "",
+    "adCount": 18
+  },
+  {
+    "id": 4322,
+    "name": "Karvil Biler A/S",
+    "address": "Englandsvej 2",
+    "zipAndCity": "5700 Svendborg",
+    "website": "https://www.karvil.dk",
+    "phone": "63210041",
+    "adCount": 17
+  },
+  {
+    "id": 5833,
+    "name": "JENS PETER BUCH BILER A/S",
+    "address": "Niels Finsensvej 5",
+    "zipAndCity": "7100 Vejle",
+    "website": "https://www.jenspbuchbiler.dk",
+    "phone": "61810415",
+    "adCount": 29
+  },
+  {
+    "id": 6997,
+    "name": "Bin2Bil A/S",
+    "address": "Asienvej 3",
+    "zipAndCity": "4200 Slagelse",
+    "website": "https://www.bin2bil.dk",
+    "phone": "58591006",
+    "adCount": 104
+  },
+  {
+    "id": 5110,
+    "name": "Andersen Biler",
+    "address": "Husby Alle 7",
+    "zipAndCity": "2630 Taastrup",
+    "website": "https://www.andersenbiler.dk",
+    "phone": "70887771",
+    "adCount": 54
+  },
+  {
+    "id": 5108,
+    "name": "Andersen Biler",
+    "address": "Rovsingsgade 78",
+    "zipAndCity": "2200 København N",
+    "website": "https://www.andersenbiler.dk",
+    "phone": "88811912",
+    "adCount": 42
+  },
+  {
+    "id": 2587,
+    "name": "Auto-House Hvidovre A/S",
+    "address": "Gl. Køge Landevej 471",
+    "zipAndCity": "2650 Hvidovre",
+    "website": "https://www.auto-house.dk",
+    "phone": "36342816",
+    "adCount": 57
+  },
+  {
+    "id": 4928,
+    "name": "Als Motor A/S",
+    "address": "Nørrekobbel 1",
+    "zipAndCity": "6400 Sønderborg",
+    "website": "https://www.alsmotor.dk",
+    "phone": "21423650",
+    "adCount": 22
+  },
+  {
+    "id": 5471,
+    "name": "Andersen Biler",
+    "address": "Tåstrup Møllevej 6",
+    "zipAndCity": "4300 Holbæk",
+    "website": "https://www.andersenbiler.dk",
+    "phone": "70886659",
+    "adCount": 70
+  }
+]
